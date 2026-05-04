@@ -1,0 +1,56 @@
+{
+  "app": {
+    "name": "NomadGo-SpatialVision",
+    "version": "1.2.0-commercial",
+    "build": 3
+  },
+  "model": {
+    "path": "Models/yolov8n.onnx",
+    "labels_path": "Models/labels.txt",
+    "input_width": 640,
+    "input_height": 640,
+    "confidence_threshold": 0.45,
+    "nms_threshold": 0.5,
+    "max_detections": 100,
+    "remote_url": "",
+    "model_version": "customer-model-required-before-final-rollout"
+  },
+  "counting": {
+    "row_cluster_vertical_gap": 50,
+    "row_limit": 6,
+    "iou_threshold": 0.4,
+    "tracking_max_age_frames": 15,
+    "min_detection_confidence": 0.35
+  },
+  "spatial": {
+    "enable_depth_refinement": false,
+    "plane_detection_mode": "Horizontal",
+    "max_plane_count": 10
+  },
+  "sync": {
+    "local_mode": true,
+    "local_storage_path": "Pulses",
+    "base_url": "",
+    "pulse_interval_seconds": 10,
+    "retry_max_attempts": 5,
+    "retry_base_delay_seconds": 2,
+    "retry_max_delay_seconds": 60,
+    "queue_persistent": true,
+    "api_key": ""
+  },
+  "storage": {
+    "provider": "json",
+    "autosave_interval_seconds": 2,
+    "session_export_path": "Sessions/"
+  },
+  "diagnostics": {
+    "show_fps_overlay": false,
+    "log_inference_time": false,
+    "show_memory_monitor": false,
+    "log_tracking_events": false,
+    "verbose_mode": false
+  },
+  "_build_trigger": "production-roadmap-20260405",
+  "_build": "v1.1.0-prod",
+  "_release": "commercial-hardening-2026-05-04"
+}
