@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_Enabled: 1
+  m_Script: {fileID: 11500000, guid: ddd2c9b3f6f74c448be5b0a0d91a2f1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  automaticLoading: 1
+  automaticRunning: 1
+  loaders:
+  - {fileID: 3}

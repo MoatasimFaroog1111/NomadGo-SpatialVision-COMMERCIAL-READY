@@ -1,0 +1,9 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_Enabled: 1
+  m_Script: {fileID: 11500000, guid: f9d5c9a2a9b94c8f8c8a7b7a7e7a9c3d, type: 3}
+  m_Name: ARCore Loader
+  m_EditorClassIdentifier: 
