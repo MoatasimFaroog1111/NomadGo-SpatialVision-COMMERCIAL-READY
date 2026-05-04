@@ -1,0 +1,17 @@
+<linker>
+    <!-- OnnxRuntime Unity package (com.github.asus4.onnxruntime) — prevents IL2CPP stripping -->
+    <assembly fullname="Microsoft.ML.OnnxRuntime" preserve="all"/>
+    <assembly fullname="Microsoft.ML.OnnxRuntime.Tensors" preserve="all"/>
+
+    <!-- ARFoundation and ARCore assemblies -->
+    <assembly fullname="Unity.XR.ARFoundation" preserve="all"/>
+    <assembly fullname="Unity.XR.ARCore" preserve="all"/>
+    <assembly fullname="Unity.XR.Management" preserve="all"/>
+    <assembly fullname="UnityEngine.XR.ARSubsystems" preserve="all"/>
+
+    <!-- TextMeshPro -->
+    <assembly fullname="Unity.TextMeshPro" preserve="all"/>
+
+    <!-- NomadGo scripts -->
+    <assembly fullname="Assembly-CSharp" preserve="all"/>
+</linker>
