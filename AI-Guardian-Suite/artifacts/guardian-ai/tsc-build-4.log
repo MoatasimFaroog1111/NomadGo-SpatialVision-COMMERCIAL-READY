@@ -1,4 +1,0 @@
-
-> @workspace/guardian-ai@0.0.0 typecheck /home/ubuntu/AI-Guardian-Suite/AI-Guardian-Suite/artifacts/guardian-ai
-> tsc -p tsconfig.json --noEmit
-
