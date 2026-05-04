@@ -1,0 +1,66 @@
+name: Commercial Android Release Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  web-backend-check:
+    name: Typecheck and tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npm test
+
+  build-android:
+    name: Build Unity Android APK
+    runs-on: ubuntu-latest
+    needs: web-backend-check
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Pull Git LFS files
+        run: git lfs pull
+
+      - name: Free disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/lib/android/sdk/ndk
+          df -h
+
+      - name: Build Android APK
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+          APP_VERSION: 1.2.0-commercial
+          ANDROID_VERSION_CODE: 3
+          BUILD_OUTPUT_DIR: build/Android
+        with:
+          unityVersion: 2022.3.22f1
+          targetPlatform: Android
+          projectPath: .
+          buildMethod: BuildScript.BuildAndroid
+          androidExportType: androidPackage
+          customParameters: "-customDefines UNITY_AR;NOMADGO_SPATIAL;PRODUCTION_BUILD"
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: NomadGo-SpatialVision-Commercial-APK
+          path: build/Android/*.apk
+          if-no-files-found: error
