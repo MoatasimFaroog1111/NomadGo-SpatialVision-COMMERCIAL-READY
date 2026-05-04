@@ -1,0 +1,60 @@
+PS C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision> dir *.ps1
+
+
+    Directory: C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2/13/2026   1:19 PM           9239 setup_local.ps1
+
+
+PS C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision> .\setup_local.ps1
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:37 char:1
++ }
++ ~
+Unexpected token '}' in expression or statement.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:92 char:17
++   "dependencies": {
++                 ~
+Unexpected token ':' in expression or statement.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:93 char:26
++     "com.unity.xr.arcore": "5.1.2",
++                          ~
+Unexpected token ':' in expression or statement.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:115 char:4
++ --- !u!129 &1
++    ~
+Missing expression after unary operator '-'.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:115 char:5
++ --- !u!129 &1
++     ~~~~~~
+Unexpected token '!u!129' in expression or statement.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:115 char:12
++ --- !u!129 &1
++            ~
+The ampersand (&) character is not allowed. The & operator is reserved for future use; wrap an ampersand in double
+quotation marks ("&") to pass it as part of a string.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:169 char:55
++ ... -Host "  ONNX Runtime Ù…ÙˆØ¬ÙˆØ¯ Ù…Ø³Ø¨Ù‚Ø§Ù‹" -ForegroundColor Green
++                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unexpected token 'Ø§Ù‹" -ForegroundColor Green
+    }
+} catch {
+    Write-Host "' in expression or statement.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:196 char:44
++ Write-Host "     Ø§ÙØªØ­ Unity Hub > Open > Ø§Ø®ØªØ± Ù…Ø¬Ù„Ø¯ Ø§Ù„Ù… ...
++                                            ~~~~~~~~~~
+The output stream for this command is already redirected.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:200 char:35
++ Write-Host "  5. Ù…Ù† Unity: File > Build and Run" -ForegroundColor W ...
++                                   ~~~~~~~
+The output stream for this command is already redirected.
+At C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision\setup_local.ps1:115 char:3
++ --- !u!129 &1
++   ~
+The '--' operator works only on variables or on properties.
+    + CategoryInfo          : ParserError: (:) [], ParseException
+    + FullyQualifiedErrorId : UnexpectedToken
+
+PS C:\Users\moatasim\Downloads\Nomad-Spatial-Vision\Nomad-Spatial-Vision>

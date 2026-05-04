@@ -1,0 +1,153 @@
+{
+  "prompt_name": "NomadGo Spatial Vision — Replit Full Project Execution Contract",
+  "execution_mode": "FULL_PROJECT_GENERATION",
+  "critical_instruction": "You are not allowed to produce partial pseudo-code or conceptual explanation. You must generate a structured Unity project blueprint ready to be cloned and executed locally. If something cannot be built inside Replit environment, you must still generate full Unity project files and precise RUNBOOK for local execution.",
+
+  "project_identity": {
+    "name": "NomadGo-SpatialVision",
+    "type": "Unity Mobile AR Application",
+    "core_feature": "3D Spatial Intelligence Inventory Counting",
+    "primary_platform": "Android",
+    "secondary_platform": "iOS (optional)"
+  },
+
+  "non_negotiable_rules": [
+    "NO cloud inference allowed",
+    "NO barcode dependency",
+    "NO missing setup steps",
+    "NO undefined variables",
+    "NO placeholder TODOs blocking execution",
+    "All dependencies must specify exact versions"
+  ],
+
+  "environment_constraints": {
+    "unity_version": "Unity 2022.3 LTS",
+    "render_pipeline": "URP",
+    "ar_stack": "AR Foundation 5.x + ARCore XR Plugin",
+    "inference_engine": "ONNX Runtime for Unity (preferred)",
+    "target_android_api": "34",
+    "jdk": "17",
+    "min_android_version": "Android 10"
+  },
+
+  "required_repo_structure": [
+    "Assets/Scenes/Main.unity",
+    "Assets/Scripts/AppShell/",
+    "Assets/Scripts/Spatial/",
+    "Assets/Scripts/Vision/",
+    "Assets/Scripts/Counting/",
+    "Assets/Scripts/AROverlay/",
+    "Assets/Scripts/Storage/",
+    "Assets/Scripts/Sync/",
+    "Assets/Scripts/Diagnostics/",
+    "Assets/Models/",
+    "Assets/Resources/CONFIG.json",
+    "Docs/RUNBOOK.md",
+    "Docs/QA_CHECKLIST.md"
+  ],
+
+  "functional_requirements": {
+
+    "scan_flow": [
+      "User presses Start Scan",
+      "AR session initializes",
+      "Camera frames processed locally",
+      "Object detection runs",
+      "Objects tracked across frames",
+      "Per-row clustering applied",
+      "Counts displayed in AR overlay",
+      "Session stored locally",
+      "If internet available → pulses sent"
+    ],
+
+    "per_row_counting": {
+      "method": "2D detection + vertical clustering + optional depth refinement",
+      "anti_double_count": "IOU tracking across frames",
+      "row_limit": 6
+    },
+
+    "offline_first": {
+      "storage": "SQLite or JSON fallback",
+      "autosave_interval_seconds": 2,
+      "no_network_dependency": true
+    },
+
+    "sync_pulses": {
+      "pulse_interval_seconds": 5,
+      "queue_persistent": true,
+      "retry_exponential_backoff": true,
+      "mock_server_required": true
+    }
+  },
+
+  "ai_requirements": {
+    "model_type": "Lightweight object detection",
+    "format": "ONNX",
+    "input_resolution": "640x640",
+    "fps_target": ">=15 inference FPS",
+    "must_include_demo_model": true,
+    "must_include_labels_file": true
+  },
+
+  "performance_requirements": [
+    "Display FPS overlay",
+    "Log inference time",
+    "Memory usage monitor",
+    "No crash during 5-minute continuous scan"
+  ],
+
+  "verification_steps_mandatory": [
+    "Fresh Unity import works without missing packages",
+    "Android Debug build successful",
+    "Offline airplane mode test successful",
+    "Online pulse sync test successful",
+    "Session export JSON file generated"
+  ],
+
+  "config_file_required": {
+    "file": "Assets/Resources/CONFIG.json",
+    "must_be_editable": true,
+    "must_control": [
+      "model path",
+      "thresholds",
+      "row clustering",
+      "sync base URL",
+      "diagnostics flags"
+    ]
+  },
+
+  "runbook_requirements": [
+    "Exact Unity version",
+    "Exact package installation steps",
+    "Android build configuration steps",
+    "How to swap model file",
+    "How to run mock server locally",
+    "Top 10 troubleshooting issues"
+  ],
+
+  "qa_checklist_requirements": [
+    "Stacked products",
+    "Occlusion test",
+    "Low light test",
+    "Fast camera movement test",
+    "Tracking lost recovery test"
+  ],
+
+  "output_constraints": {
+    "do_not_output": [
+      "High-level explanation only",
+      "Marketing language",
+      "Concept-only answer"
+    ],
+    "must_output": [
+      "Full folder tree",
+      "Key C# script implementations",
+      "CONFIG.json content",
+      "Mock server code",
+      "RUNBOOK content",
+      "QA checklist"
+    ]
+  },
+
+  "final_instruction": "Build this as if it will be delivered to an enterprise client tomorrow. Every missing detail reduces acceptance."
+}

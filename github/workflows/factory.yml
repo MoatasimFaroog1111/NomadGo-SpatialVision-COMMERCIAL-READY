@@ -1,0 +1,112 @@
+name: NomadGo SpatialVision — CI Validation
+
+# FIX: The original workflow was written for a Python project (PyInstaller / main.py).
+# This project is a Unity Android app — there is no main.py and PyInstaller is irrelevant.
+# This replacement workflow performs checks that are actually useful for a Unity project
+# hosted on GitHub without a Unity license server:
+#   1. Validate that all required files are present (manifest, scene, config, model).
+#   2. Confirm no duplicate GUIDs exist in .meta files (root cause of build errors).
+#   3. Confirm scene GUID in EditorBuildSettings matches Main.unity.meta.
+#   4. Confirm AndroidManifest.xml contains required permissions.
+#   5. Confirm Android SDK version and architecture settings.
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate_project_structure:
+    name: Validate Unity Project Structure
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required Unity files exist
+        run: |
+          echo "Checking required project files..."
+          MISSING=0
+          check_file() {
+            if [ ! -f "$1" ]; then echo "MISSING: $1"; MISSING=$((MISSING + 1)); else echo "OK:      $1"; fi
+          }
+          check_file "ProjectSettings/ProjectSettings.asset"
+          check_file "ProjectSettings/ProjectVersion.txt"
+          check_file "ProjectSettings/EditorBuildSettings.asset"
+          check_file "Packages/manifest.json"
+          check_file "Assets/Scenes/Main.unity"
+          check_file "Assets/Resources/CONFIG.json"
+          check_file "Assets/Plugins/Android/AndroidManifest.xml"
+          if [ $MISSING -gt 0 ]; then echo "ERROR: $MISSING required file(s) missing."; exit 1; fi
+          echo "All required files present."
+
+      - name: Check for duplicate GUIDs in .meta files
+        run: |
+          echo "Scanning for duplicate GUIDs..."
+          DUPES=$(find Assets -name "*.meta" -exec grep -h "^guid:" {} \; | sort | uniq -d)
+          if [ -n "$DUPES" ]; then
+            echo "ERROR: Duplicate GUIDs detected:"
+            echo "$DUPES"
+            for GUID in $DUPES; do find Assets -name "*.meta" | xargs grep -l "^$GUID" 2>/dev/null; done
+            exit 1
+          fi
+          echo "No duplicate GUIDs found."
+
+      - name: Verify scene GUID matches EditorBuildSettings
+        run: |
+          echo "Checking scene GUID consistency..."
+          SCENE_META_GUID=$(grep "^guid:" Assets/Scenes/Main.unity.meta | awk '{print $2}')
+          BUILD_GUID=$(grep "guid:" ProjectSettings/EditorBuildSettings.asset | awk '{print $2}')
+          echo "Main.unity.meta GUID:      $SCENE_META_GUID"
+          echo "EditorBuildSettings GUID:  $BUILD_GUID"
+          if [ "$SCENE_META_GUID" != "$BUILD_GUID" ]; then
+            echo "ERROR: Scene GUID mismatch — EditorBuildSettings will not find the scene."
+            exit 1
+          fi
+          echo "Scene GUID consistent."
+
+      - name: Verify AndroidManifest permissions
+        run: |
+          echo "Checking AndroidManifest.xml permissions..."
+          MANIFEST="Assets/Plugins/Android/AndroidManifest.xml"
+          ERRORS=0
+          check_permission() {
+            if ! grep -q "$1" "$MANIFEST"; then echo "MISSING permission: $1"; ERRORS=$((ERRORS + 1)); else echo "OK: $1"; fi
+          }
+          check_permission "android.permission.CAMERA"
+          check_permission "android.permission.INTERNET"
+          check_permission "android.permission.ACCESS_NETWORK_STATE"
+          if [ $ERRORS -gt 0 ]; then echo "ERROR: $ERRORS required permission(s) missing."; exit 1; fi
+          echo "All required permissions present."
+
+      - name: Verify Scripting Define Symbols
+        run: |
+          echo "Checking Scripting Define Symbols..."
+          SETTINGS="ProjectSettings/ProjectSettings.asset"
+          ERRORS=0
+          check_symbol() {
+            if ! grep -q "$1" "$SETTINGS"; then echo "MISSING define: $1"; ERRORS=$((ERRORS + 1)); else echo "OK: $1"; fi
+          }
+          check_symbol "UNITY_BARRACUDA"
+          check_symbol "UNITY_AR"
+          check_symbol "NOMADGO_SPATIAL"
+          if [ $ERRORS -gt 0 ]; then echo "ERROR: Required Scripting Define Symbols missing."; exit 1; fi
+          echo "All required define symbols present."
+
+      - name: Verify Android SDK version requirements
+        run: |
+          echo "Checking Android SDK versions..."
+          MIN_SDK=$(grep "AndroidMinSdkVersion:" ProjectSettings/ProjectSettings.asset | awk '{print $2}')
+          TARGET_SDK=$(grep "AndroidTargetSdkVersion:" ProjectSettings/ProjectSettings.asset | awk '{print $2}')
+          ARCH=$(grep "AndroidTargetArchitectures:" ProjectSettings/ProjectSettings.asset | awk '{print $2}')
+          echo "MinSdkVersion:        $MIN_SDK  (required >= 29 for ARCore)"
+          echo "TargetSdkVersion:     $TARGET_SDK"
+          echo "TargetArchitectures:  $ARCH  (1 = ARM64 only)"
+          if [ "$MIN_SDK" -lt 29 ]; then echo "ERROR: AndroidMinSdkVersion must be >= 29 for ARCore."; exit 1; fi
+          if [ "$ARCH" != "1" ]; then echo "ERROR: AndroidTargetArchitectures must be 1 (ARM64) for Barracuda 3.0."; exit 1; fi
+          echo "Android SDK versions OK."
+
+      - name: Validation complete
+        run: echo "All structural checks passed successfully."

@@ -1,0 +1,398 @@
+
+
+npm run dev
+Port :5000 opened on
+OcclusionCullingSettings:
+  m_Name:
+  m_EditorClassIdentifier:
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!1 &700000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 700001}
+  m_Layer: 0
+  m_Name: SystemManagers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &700001
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 700000}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1660057539 &9
+SceneRoots:
+  m_ObjectHideFlags: 0
+  m_Roots:
+  - {fileID: 100001}
+  - {fileID: 200001}
+  - {fileID: 300001}
+  - {fileID: 500001}
+  - {fileID: 600001}
+  - {fileID: 700001}
+
+Update scene files to fix broken references and duplicate components
+Your NomadGo SpatialVision project is complete. Is there anything you'd like to adjust or add?
+
+Ready to share? Publish this App in one click.
+Autoscale Deployment
+Publish to domain
+Available
+nomad-spatial-vision
+.replit.app
+ماذا يفعل التطبيق
+
+تطبيق NomadGo SpatialVision هو تطبيق واقع معزز (AR) للهواتف الذكية مصمم لـعدّ المنتجات على الرفوف تلقائياً بدون الحاجة لمسح باركود أو اتصال بالإنترنت.
+
+كيف يعمل:
+
+توجّه الكاميرا نحو الرف — يفتح التطبيق كاميرا الهاتف ويستخدم تقنية الواقع المعزز لفهم المساحة ثلاثية الأبعاد أمامك.
+
+يتعرّف على المنتجات تلقائياً — يستخدم ذكاء اصطناعي يعمل مباشرة على الهاتف (بدون إنترنت) للتعرف على الزجاجات والعلب والصناديق وغيرها من المنتجات.
+
+يعدّ المنتجات حسب الصفوف — يقسّم الرف إلى صفوف (حتى 6 صفوف) ويعدّ كل صف على حدة، مع تتبع المنتجات عبر الإطارات لتجنب العدّ المزدوج.
+
+يرسم إطارات ملونة — يعرض على الشاشة إطارات حول كل منتج تم اكتشافه مع اسمه وعدده.
+
+يحفظ البيانات تلقائياً — كل ثانيتين يحفظ نتائج العدّ على الهاتف حتى لو انقطع التطبيق فجأة.
+
+يرسل النتائج للخادم — عند توفر الإنترنت، يرسل بيانات العدّ إلى الخادم. وإذا لم يكن هناك إنترنت، يحفظ البيانات في قائمة انتظار ويعيد المحاولة تلقائياً.
+
+ما يوجد هنا في هذا المشروع:
+
+ملفات Unity الكاملة (28 ملف برمجي) جاهزة للفتح في Unity وبناء تطبيق Android
+خادم تجريبي يعمل الآن ولوحة مراقبة ويب لمشاهدة بيانات العدّ القادمة من التطبيق
+دليل الإعداد الكامل وقائمة اختبارات الجودة
+الاستخدام المثالي: جرد المخزون في المتاجر والمستودعات بسرعة وبدون اتصال بالإنترنت.
+
+خطوات العمل على الجوال
+
+خطوات تشغيل التطبيق على جوال Android:
+1. تجهيز الكمبيوتر
+حمّل وثبّت Unity 2022.3 LTS من موقع Unity الرسمي
+أثناء التثبيت، اختر إضافة Android Build Support (يشمل Android SDK و NDK)
+2. فتح المشروع
+حمّل ملفات المشروع من هنا إلى جهاز الكمبيوتر
+افتح Unity واختر Open Project ثم حدد مجلد المشروع
+انتظر حتى يكتمل تحميل المشروع
+3. تثبيت المكتبات المطلوبة
+من داخل Unity، افتح Window > Package Manager
+ثبّت هذه المكتبات:
+AR Foundation (الإصدار 5.1.2)
+ARCore XR Plugin (لدعم Android)
+حمّل ملف Microsoft.ML.OnnxRuntime (الإصدار 1.16.3) وضعه في مجلد Assets/Plugins
+4. إضافة نموذج الذكاء الاصطناعي
+حمّل نموذج YOLOv8n.onnx من الإنترنت
+ضعه في مجلد Assets/Models/
+عدّل ملف labels.txt ليحتوي أسماء المنتجات التي تريد عدّها
+5. ضبط إعدادات البناء
+اذهب إلى File > Build Settings
+اختر Android واضغط Switch Platform
+في Player Settings:
+اجعل Minimum API Level = 29
+اجعل Target API Level = 34
+اختر IL2CPP كطريقة بناء
+اختر ARM64 فقط
+6. تجهيز الجوال
+على جوالك Android، فعّل خيارات المطور (اضغط 7 مرات على رقم الإصدار في الإعدادات)
+فعّل تصحيح USB من خيارات المطور
+وصّل الجوال بالكمبيوتر بكابل USB
+7. بناء التطبيق وتثبيته
+في Unity اضغط Build and Run
+انتظر حتى يكتمل البناء (قد يأخذ عدة دقائق)
+سيُثبّت التطبيق تلقائياً على الجوال
+8. استخدام التطبيق
+افتح التطبيق على الجوال
+وجّه الكاميرا نحو رف المنتجات
+سيبدأ تلقائياً بالتعرف على المنتجات وعدّها
+النتائج تُحفظ تلقائياً كل ثانيتين
+عند توفر إنترنت، تُرسل البيانات للخادم تلقائياً
+9. مراقبة النتائج
+يمكنك مشاهدة بيانات العدّ القادمة من الجوال عبر لوحة المراقبة الموجودة هنا في المشروع
+عدّل عنوان الخادم في ملف CONFIG.json ليشير إلى عنوان هذا المشروع
+ملاحظة مهمة
+الجوال يجب أن يدعم ARCore (معظم أجهزة Android الحديثة تدعمه). يمكنك التأكد من القائمة الرسمية لأجهزة ARCore المدعومة على موقع Google.
+
+هل يمكن تجهيزه على باورتشيل الكمبيوتر المحلي
+
+اذا نشترته على ريبليت هل سيعمل مباشرة
+
+سؤال ممتاز. الإجابة المختصرة:
+
+الخادم (السيرفر) فقط هو الذي سيعمل عند النشر على Replit — وهو يعمل الآن فعلاً. يمكنك نشره ليكون متاحاً على الإنترنت برابط دائم لاستقبال بيانات العدّ من الجوال.
+
+لكن تطبيق الجوال نفسه لا يعمل من Replit — لأن:
+
+تطبيقات Unity تحتاج برنامج Unity Editor لبنائها كتطبيق Android (ملف APK)
+Unity لا يعمل داخل Replit — يحتاج كمبيوتر ويندوز أو ماك
+التطبيق يستخدم كاميرا الجوال والواقع المعزز وهذا لا يمكن تشغيله في متصفح
+الطريقة الصحيحة:
+الجزء	أين يعمل
+الخادم ولوحة المراقبة	هنا على Replit — انشره وسيعمل مباشرة برابط دائم
+تطبيق الجوال (Unity)	يُبنى على كمبيوترك المحلي ثم يُثبّت على جوال Android
+يعني عملياً:
+انشر هذا المشروع على Replit — ستحصل على رابط مثل https://your-app.replit.app وهذا سيكون الخادم الذي يستقبل بيانات العدّ
+على كمبيوترك — ابنِ تطبيق الجوال بـ Unity باستخدام سكربت PowerShell الذي جهّزناه
+عدّل عنوان الخادم في ملف CONFIG.json ليشير إلى رابط Replit الخاص بك
+ثبّت التطبيق على الجوال — وسيرسل بيانات العدّ تلقائياً إلى الخادم على Replit
+هل تريد أن أنشر الخادم الآن ليكون جاهزاً لاستقبال البيانات؟
+
+عطني الخطوات (على كمبيوترك — ابنِ تطبيق الجوال بـ Unity باستخدام سكربت PowerShell الذي جهّزناه(
+
+خطوات تفصيلية لبناء التطبيق على كمبيوترك باستخدام PowerShell:
+الخطوة 1: حمّل ملفات المشروع من Replit
+في هذا المشروع، اضغط على النقاط الثلاث (⋮) بجانب "Files" في الأعلى
+اختر Download as ZIP
+احفظ الملف على سطح المكتب مثلاً
+فكّ الضغط عن الملف (انقر بزر الماوس الأيمن > Extract All)
+الخطوة 2: افتح PowerShell كمسؤول
+اضغط على قائمة ابدأ (Start)
+اكتب PowerShell
+انقر بزر الماوس الأيمن على Windows PowerShell
+اختر Run as Administrator (تشغيل كمسؤول)
+اضغط نعم للسماح
+الخطوة 3: السماح بتشغيل السكربت
+في نافذة PowerShell الزرقاء، اكتب هذا الأمر واضغط Enter:
+Set-ExecutionPolicy Bypass -Scope Process -Force
+الخطوة 4: انتقل لمجلد الملفات المحمّلة
+اكتب الأمر التالي (غيّر المسار حسب مكان الملف عندك):
+cd "$env:USERPROFILE\Desktop\NomadGo-SpatialVision"
+أو إذا فككت الضغط في مكان آخر، اكتب المسار الصحيح.
+
+الخطوة 5: شغّل السكربت
+اكتب:
+.\setup_local.ps1
+واضغط Enter
+الخطوة 6: ماذا سيحدث تلقائياً
+السكربت سيقوم بالتالي بالترتيب:
+
+الرقم	العملية	ماذا يعني
+1	يتحقق من Unity Hub	إذا غير موجود، يحمّله لك
+2	يتحقق من Unity 2022.3	إذا غير مثبت، يطلب منك تثبيته
+3	ينشئ مجلدات المشروع	في Documents\NomadGo-SpatialVision
+4	يضبط الحزم المطلوبة	AR Foundation و ARCore
+5	يضبط إعدادات Android	API 29-34, ARM64
+6	يحمّل ONNX Runtime	مكتبة الذكاء الاصطناعي
+7	يسألك إذا تريد فتح Unity	اكتب y للفتح
+الخطوة 7: انسخ ملفات الكود
+بعد انتهاء السكربت، افتح المجلد:
+C:\Users\[اسمك]\Documents\NomadGo-SpatialVision
+من الملف المحمّل من Replit، انسخ مجلد Assets بالكامل إلى هذا المجلد (واستبدل الملفات الموجودة)
+انسخ أيضاً مجلد Docs
+الخطوة 8: حمّل نموذج الذكاء الاصطناعي
+افتح هذا الرابط في المتصفح:
+https://github.com/ultralytics/assets/releases
+حمّل ملف yolov8n.onnx
+ضعه في:
+Documents\NomadGo-SpatialVision\Assets\StreamingAssets\Models\
+الخطوة 9: افتح المشروع في Unity
+افتح Unity Hub
+اضغط Open (فتح)
+اختر مجلد NomadGo-SpatialVision
+انتظر حتى يكتمل تحميل المشروع (قد يأخذ 2-5 دقائق أول مرة)
+الخطوة 10: ابنِ التطبيق للجوال
+وصّل جوال Android بكابل USB
+فعّل تصحيح USB على الجوال (الإعدادات > خيارات المطور)
+في Unity: اذهب إلى File > Build and Run
+اختر Android
+اضغط Build and Run
+انتظر (5-10 دقائق) حتى يُثبّت التطبيق على الجوال
+الخطوة 11: عدّل عنوان الخادم
+قبل البناء، افتح ملف Assets/Resources/CONFIG.json
+عدّل عنوان الخادم ليشير إلى رابط Replit الخاص بك:
+"sync_url": "https://your-app.replit.app/api/pulse"
+بعد هذه الخطوات، التطبيق سيعمل على جوالك ويرسل بيانات العدّ مباشرة إلى الخادم هنا على Replit.
+
+هل تريد أن أنشر الخادم الآن حتى يكون الرابط جاهزاً لك؟
+
+PS C:\Users\HP\Downloads\Nomad-Spatial-Vision> .\setup_local.ps1
+.\setup_local.ps1 : The term '.\setup_local.ps1' is not recognized as the name of a cmdlet, function, script file, or
+operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try
+again.
+At line:1 char:1
+
+.\setup_local.ps1
+  + CategoryInfo          : ObjectNotFound: (.\setup_local.ps1:String) [], CommandNotFoundException
+  + FullyQualifiedErrorId : CommandNotFoundException
+PS C:\Users\HP\Downloads\Nomad-Spatial-Vision>
+
+المشكلة أن ملف السكربت setup_local.ps1 غير موجود في المجلد الذي فتحته. الملف موجود داخل ملفات المشروع المحمّلة لكن ربما في مجلد فرعي.
+
+جرّب هذه الخطوات:
+
+أولاً: تأكد من مكان الملف
+اكتب هذا الأمر في PowerShell لعرض الملفات الموجودة:
+
+dir
+أو
+
+Get-ChildItem
+ابحث عن ملف setup_local.ps1 في القائمة.
+
+إذا كان في مجلد فرعي:
+ربما الملفات داخل مجلد فرعي بعد فك الضغط. جرّب:
+
+dir -Recurse -Filter "setup_local.ps1"
+هذا الأمر سيبحث عن الملف في كل المجلدات الفرعية ويعطيك المسار الكامل.
+
+إذا لم تجد الملف:
+يمكنك تشغيل السكربت مباشرة بنسخ محتواه. اكتب هذا الأمر في PowerShell:
+
+Invoke-WebRequest -Uri "https://your-replit-url.replit.app/setup_local.ps1" -OutFile "$env:USERPROFILE\Desktop\setup_local.ps1"
+أو الأسهل — انسخ ملف setup_local.ps1 يدوياً من المجلد المحمّل إلى مكان تعرفه مثل سطح المكتب، ثم شغّله:
+
+cd "$env:USERPROFILE\Desktop"
+.\setup_local.ps1
+الطريقة الأسرع:
+في المجلد الحالي C:\Users\HP\Downloads\Nomad-Spatial-Vision، اكتب:
+
+dir
+وأرسل لي الناتج حتى أساعدك أين الملف بالضبط.
+
+هل المشروع جاهز للبناء بطريقة GitHub Actions + game-ci
+
+when iam building this app using Unity this erors have apears
+
+Assets\Scripts\Vision\ONNXInferenceEngine.cs(5,17): error CS0234: The type or namespace name 'ML' does not exist in the namespace 'Microsoft' (are you missing an assembly reference?)
+
+Assets\Scripts\Vision\ONNXInferenceEngine.cs(6,17): error CS0234: The type or namespace name 'ML' does not exist in the namespace 'Microsoft' (are you missing an assembly reference?)
+
+Assets\Scripts\Vision\ONNXInferenceEngine.cs(23,17): error CS0246: The type or namespace name 'InferenceSession' could not be found (are you missing a using directive or an assembly reference?)
+
+بعد حل الاخطاء السابقة الان ظهرت هذه الاخطاء
+
+Assets\Scripts\Spatial\PlaneDetector.cs(50,82): error CS0117: 'PlaneDetectionMode' does not contain a definition for 'Everything'
+
+بعد حل الاخطاء السابقة الان ظهرهذا الخطا
+
+هل صححت الخطا؟
+
+نعم، تم تصحيح الخطأ. غيّرت PlaneDetectionMode.Everything إلى PlaneDetectionMode.Horizontal | PlaneDetectionMode.Vertical لأن AR Foundation 5.x ما فيها قيمة Everything.
+
+جرّب ابنِ المشروع مرة ثانية في Unity — لو طلعت أخطاء جديدة أرسلها لي.
+
+الان ما الخطوة التالية
+
+أشوف من الصورة إن المشروع فُتح بنجاح في Unity بدون أخطاء (0 errors في Console). ممتاز!
+
+لكن ألاحظ إن المشهد الحالي هو مشهد فارغ (Untitled) فيه بس Main Camera و Directional Light. المشهد اللي فيه كل الإعدادات هو Main.unity.
+
+الخطوة التالية:
+افتح المشهد الصحيح: اذهب إلى File > Open Scene واختر Assets/Scenes/Main.unity
+
+هذا المشهد فيه كل الـ GameObjects المطلوبة (AR Session, AR Camera, الـ Managers)
+اضبط إعدادات XR: اذهب إلى Edit > Project Settings > XR Plug-in Management
+
+فعّل ARCore تحت تبويب Android
+اضبط Build Settings: اذهب إلى File > Build Settings
+
+اختر Android واضغط Switch Platform
+أضف مشهد Main.unity للقائمة
+ثبّت ONNX Runtime (لتفعيل الـ inference الحقيقي):
+
+حمّل Microsoft.ML.OnnxRuntime.1.16.3.nupkg من GitHub
+غيّر الامتداد لـ .zip وفك الضغط
+انسخ الـ DLLs إلى Assets/Plugins/OnnxRuntime/
+أضف ONNX_RUNTIME في Scripting Define Symbols
+ضع ملف الموديل: انسخ ملف yolov8n.onnx إلى Assets/StreamingAssets/Models/
+
+بعد ما تسوي هالخطوات، تقدر تبني APK وتجربه على جهاز Android يدعم ARCore.
+
+لا يوجد ARCore و ماهذه الاخطاء بعد اختيار Main. unity
+
+وضحلي الخطوات التالية اكثر
+
+ممتاز! المشهد فتح بنجاح بدون أخطاء. الآن أشرح لك الخطوات بالتفصيل:
+
+الخطوة 1: إضافة مكوّن AR Session
+في Hierarchy (يسار الشاشة)، اضغط على AR Session
+في Inspector (يمين الشاشة)، تحت Position/Rotation/Scale، اضغط زر Add Component
+في مربع البحث اللي يطلع، اكتب: AR Session
+اضغط عليه لإضافته
+الخطوة 2: إضافة مكونات AR Session Origin
+اضغط على AR Session Origin في Hierarchy
+اضغط Add Component → ابحث عن AR Session Origin → أضفه
+اضغط Add Component مرة ثانية → ابحث عن AR Plane Manager → أضفه
+الآن في Inspector، تحت مكوّن AR Session Origin، في خانة Camera — اسحب AR Camera من Hierarchy وأفلته في هالخانة
+الخطوة 3: إضافة مكونات AR Camera
+اضغط على السهم بجانب AR Session Origin في Hierarchy عشان توسّعه — تلقى AR Camera تحته
+اضغط على AR Camera
+اضغط Add Component → ابحث عن AR Camera Manager → أضفه
+اضغط Add Component → ابحث عن AR Camera Background → أضفه
+الخطوة 4: إضافة سكربت AppManager
+اضغط على AppManager في Hierarchy
+اضغط Add Component → ابحث عن AppManager → أضفه
+الخطوة 5: إضافة السكربتات على SystemManagers
+اضغط على SystemManagers في Hierarchy
+أضف كل واحد من هذي السكربتات بالترتيب (كل مرة: Add Component → ابحث عن الاسم → أضفه):
+الرقم	اسم السكربت	وظيفته
+1	PlaneDetector	اكتشاف الأسطح
+2	DepthEstimator	تقدير العمق
+3	SpatialTracker	التتبع المكاني
+4	FrameProcessor	معالجة الإطارات
+5	ONNXInferenceEngine	محرك الاستدلال
+6	IOUTracker	تتبع الكائنات
+7	RowCluster	تجميع الصفوف
+8	CountManager	إدارة العدّ
+9	BoundingBoxRenderer	رسم إطارات الكشف
+10	CountLabelRenderer	عرض أرقام العدّ
+11	OverlayManager	إدارة الطبقة المرئية
+12	JSONSessionStorage	حفظ الجلسات
+13	SyncPulseManager	مزامنة البيانات
+14	NetworkMonitor	مراقبة الشبكة
+15	FPSOverlay	عرض FPS
+16	InferenceTimer	مؤقت الاستدلال
+17	MemoryMonitor	مراقبة الذاكرة
+الخطوة 6: الحفظ
+اضغط Ctrl+S لحفظ المشهد.
+
+بعد ما تخلص من هالخطوات، المشهد يكون جاهز. الخطوة اللي بعدها هي تبديل المنصة لـ Android (File > Build Settings > Android > Switch Platform) وبناء الـ APK.
+
+تمت اضافة السكربتا
+
+ممتاز! تم إضافة السكربتات بنجاح.
+
+الخطوات التالية الآن:
+
+احفظ المشهد: اضغط Ctrl+S
+
+بدّل المنصة لـ Android:
+
+اذهب إلى File > Build Settings
+اختر Android من القائمة
+اضغط Switch Platform
+انتظر حتى ينتهي التحويل
+أضف المشهد للبناء:
+
+في نفس نافذة Build Settings، اضغط Add Open Scenes
+تأكد إن Main موجود في القائمة
+تأكد من إعدادات XR:
+
+اذهب إلى Edit > Project Settings > XR Plug-in Management
+تحت تبويب Android: فعّل ARCore
+ثبّت ONNX Runtime (اختياري الآن — التطبيق يشتغل بدونه بوضع Stub):
+
+حمّل الملفات من GitHub كما شرحت سابقاً
+انسخ الـ DLLs إلى Assets/Plugins/
+أضف ONNX_RUNTIME في Scripting Define Symbols

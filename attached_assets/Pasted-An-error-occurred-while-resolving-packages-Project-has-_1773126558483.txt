@@ -1,0 +1,61 @@
+An error occurred while resolving packages:
+  Project has invalid dependencies:
+    com.unity.modules.accessibility: Package [com.unity.modules.accessibility@1.0.0] cannot be found
+    com.unity.modules.adaptiveperformance: Package [com.unity.modules.adaptiveperformance@1.0.0] cannot be found
+    com.unity.modules.unitywebrequestjson: Package [com.unity.modules.unitywebrequestjson@1.0.0] cannot be found
+    com.unity.modules.vectorgraphics: Package [com.unity.modules.vectorgraphics@1.0.0] cannot be found
+    com.unity.multiplayer.center: Package [com.unity.multiplayer.center@1.0.1] cannot be found
+  Package com.unity.xr.arfoundation@6.3.3 has invalid dependencies or related test packages:
+    com.unity.ugui (dependency): Resolved version [1.0.0] does not satisfy requested version [2.0.0]
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(69,16): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(108,16): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(126,16): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(146,16): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(172,16): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(193,16): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(210,16): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(228,16): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(239,69): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(242,74): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(248,74): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(257,20): error CS0246: The type or namespace name 'AwaitableCompletionSource<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(294,28): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(339,28): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(361,34): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(422,28): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\Util\AwaitableUtils.cs(12,13): error CS0246: The type or namespace name 'AwaitableCompletionSource<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\Util\AwaitableUtils.cs(11,25): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(450,34): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(519,17): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(549,28): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(569,34): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Runtime\ARSubsystems\AnchorSubsystem\XRAnchorSubsystem.cs(621,28): error CS0246: The type or namespace name 'Awaitable<>' could not be found (are you missing a using directive or an assembly reference?)
+
+Library\PackageCache\com.unity.xr.arfoundation@6.3.3\Editor\ARAnalytics\AREditorAnalyticsEvent.cs(20,43): error CS0246: The type or namespace name 'IAnalytic' could not be found (are you missing a using directive or an assembly reference?)
+
+Unable to parse file ProjectSettings/TagManager.asset: [Parser Failure at line 41: Expect ':' between key and value within mapping]
+
+
