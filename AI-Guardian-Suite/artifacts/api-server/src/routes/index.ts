@@ -1,0 +1,42 @@
+import { Router, type IRouter } from "express";
+import healthRouter from "./health.js";
+import documentsRouter from "./documents.js";
+import pipelineRouter from "./pipeline.js";
+import approvalsRouter from "./approvals.js";
+import transactionsRouter from "./transactions.js";
+import auditRouter from "./audit.js";
+import reportsRouter from "./reports.js";
+import dashboardRouter from "./dashboard.js";
+import odooStatusRouter from "./odoo-status.js";
+import uploadRouter from "./upload.js";
+import exportRouter from "./export.js";
+import memoryRouter from "./memory.js";
+import { chatRouter } from "./chat.js";
+import settingsRouter from "./settings.js";
+import autonomousRouter from "./autonomous.js";
+import { voiceRouter } from "./voice.js";
+import { channelsRouter } from "./channels.js";
+import { webhooksRouter } from "./webhooks.js";
+
+const router: IRouter = Router();
+
+router.use(healthRouter);
+router.use("/documents", documentsRouter);
+router.use("/pipeline", pipelineRouter);
+router.use("/approvals", approvalsRouter);
+router.use("/transactions", transactionsRouter);
+router.use("/audit", auditRouter);
+router.use("/reports", reportsRouter);
+router.use("/dashboard", dashboardRouter);
+router.use("/odoo", odooStatusRouter);
+router.use("/upload", uploadRouter);
+router.use("/export", exportRouter);
+router.use("/memory", memoryRouter);
+router.use("/chat", chatRouter);
+router.use("/settings", settingsRouter);
+router.use("/autonomous", autonomousRouter);
+router.use("/voice", voiceRouter);
+router.use("/channels", channelsRouter);
+router.use("/webhooks", webhooksRouter);
+
+export default router;

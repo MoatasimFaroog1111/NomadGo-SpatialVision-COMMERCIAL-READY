@@ -1,0 +1,8274 @@
+{
+  "generatedAt": "2026-04-14T08:27:55.606Z",
+  "company": "GITC INTERNATIONAL HOLDING CO.",
+  "accounts": [
+    {
+      "code": "100001",
+      "name": "Liquidity Transfer",
+      "type": "Current Assets",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100002",
+      "name": "Petty Cash",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100003",
+      "name": "Basim Visa Card",
+      "type": "Current Assets",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100010",
+      "name": "FRAMECAD F325iT",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "1000101",
+      "name": "Shotcrete Spraying Machine",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100011",
+      "name": "dji flip drone",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100023",
+      "name": "Systems And Software",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100101",
+      "name": "Right of use Asset (IFRS 16)",
+      "type": "Fixed Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100102",
+      "name": "Accumulated Depreciation right use asset (IFRS 16)",
+      "type": "Fixed Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100103",
+      "name": "VAT Receivable",
+      "type": "Receivable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "100104",
+      "name": "Withholding Receivable",
+      "type": "Receivable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101001",
+      "name": "SA4320000003302122299940 Riyadh Bank",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101002",
+      "name": "SA7520000003302122290440 USD Riyadh Bank",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101003",
+      "name": "Visa Acc 4485099000004460",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101004",
+      "name": "Visa Acc 4485099000004459",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101005",
+      "name": "Visa Acc 4485099000004460",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101006",
+      "name": "Outstanding Receipts",
+      "type": "Current Assets",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "1010060",
+      "name": "ANB SA7030400108095523440014",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101007",
+      "name": "Visa & Master Credit Cards",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101008",
+      "name": "Gateway Credit Cards",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101009",
+      "name": "Manual Visa & Master Cards",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101010",
+      "name": "PayPal Account",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101011",
+      "name": "Outstanding Payments",
+      "type": "Current Assets",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "101060",
+      "name": "VAT Paid to Customs",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "102011",
+      "name": "Accounts Receivable",
+      "type": "Receivable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "102012",
+      "name": "Accounts Receivable (PoS)",
+      "type": "Receivable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "102013",
+      "name": "Post Dated Cheques Received",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "102014",
+      "name": "Other Receivable",
+      "type": "Receivable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "102015",
+      "name": "Other Debtors",
+      "type": "Receivable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "102016",
+      "name": "Eddie Shidan Shid",
+      "type": "Current Assets",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "103001",
+      "name": "Tender Document",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "103019",
+      "name": "Letters Of Guarantee",
+      "type": "Current Assets",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "103020",
+      "name": "Items Delivered to Customs on temprary Base",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "103022",
+      "name": "Row Material Inventory",
+      "type": "Current Assets",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104020",
+      "name": "Prepaid Expense",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104021",
+      "name": "Prepaid Medical Insurance",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104022",
+      "name": "Prepaid Iqama Expense",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104023",
+      "name": "Prepaid Office Rent",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104024",
+      "name": "Prepaid Vehicles Insurance",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104025",
+      "name": "Prepaid License Fees",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104026",
+      "name": "Prepaid Maintenance",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104027",
+      "name": "Prepaid Site Hosting Fees",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104028",
+      "name": "Prepaid Employees Housing",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104029",
+      "name": "Prepaid Schooling Fees",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104030",
+      "name": "Prepaid Consultancy Fees",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104031",
+      "name": "Prepaid Legal Fees",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104032",
+      "name": "Prepaid Sponsorship Fees",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104033",
+      "name": "PrePaid Advertisement Expenses",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104034",
+      "name": "Prepaid Bank Guarantee",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104035",
+      "name": "Other Prepayments",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104036",
+      "name": "Prepaid Finance charge for Loans",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104037",
+      "name": "Deposit - Office Rent",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104038",
+      "name": "Deposits - Customs",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104039",
+      "name": "Prepaid Fuel Expenses",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104040",
+      "name": "Deposit Others",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104041",
+      "name": "VAT Input",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104043",
+      "name": "Recoverable VAT Input - Reverse Charge",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "104060",
+      "name": "Prepaid Land Rent",
+      "type": "Prepayments",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "105001",
+      "name": "Cash",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "105002",
+      "name": "Cash (copy)",
+      "type": "Bank and Cash",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106001",
+      "name": "Leasehold Improvement",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106002",
+      "name": "Furniture and Equipment",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106003",
+      "name": "Computer Hardware & Software",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106004",
+      "name": "Motor Vehicles",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106005",
+      "name": "Work In Progress",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106006",
+      "name": "Amortisation on Leasehold Improvement",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106007",
+      "name": "Acc.Deprn.of Furniture & Office Equipment",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106008",
+      "name": "Acc. Deprn.Computer Hardware & Software",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106009",
+      "name": "Acc. Depreciation of Motor Vehicles",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106010",
+      "name": "New Office",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106011",
+      "name": "Computer Card Renewal",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "106012",
+      "name": "Equipment's",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "131100",
+      "name": "Inventory - Raw Materials",
+      "type": "Current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201002",
+      "name": "Payables",
+      "type": "Payable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201003",
+      "name": "Other Creditors",
+      "type": "Payable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201004",
+      "name": "Accrued - Salaries",
+      "type": "Current Liabilities",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201005",
+      "name": "Leave Tickets Provision",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201006",
+      "name": "Leave Days Provision",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201007",
+      "name": "Accrued - Consulting",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201008",
+      "name": "Accrued Salaries Increment",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201010",
+      "name": "Accrued Other Personnel Cost",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201011",
+      "name": "Accrued - Utilities",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201012",
+      "name": "Accrued - Telephone",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201013",
+      "name": "Accrued - Sponsorship",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201014",
+      "name": "Accrued - Audit Fees",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201015",
+      "name": "Accrued - Office Rent",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201016",
+      "name": "Accrued Others",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201017",
+      "name": "VAT Output",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201018",
+      "name": "Deferred income",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201019",
+      "name": "Zakat Provision",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201020",
+      "name": "Withholding Tax Payable",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201022",
+      "name": "GOSI Employee Payable",
+      "type": "Payable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201030",
+      "name": "Accrued - GOSI",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201031",
+      "name": "Visa & Master Credit Cards",
+      "type": "Credit Card",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201032",
+      "name": "Gateway Credit Cards",
+      "type": "Credit Card",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201033",
+      "name": "Manual Visa & Master Cards",
+      "type": "Credit Card",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201034",
+      "name": "PayPal Account",
+      "type": "Credit Card",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "201035",
+      "name": "Outstanding Withholding",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "202001",
+      "name": "End of Service Provision",
+      "type": "Non-current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "202002",
+      "name": "Reservations",
+      "type": "Non-current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "202003",
+      "name": "VAT Payable",
+      "type": "Payable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "202004",
+      "name": "Withholding Tax Payable",
+      "type": "Payable",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "2030001",
+      "name": "dd",
+      "type": "Non-current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "203001",
+      "name": "Related Parties",
+      "type": "Current Liabilities",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400001",
+      "name": "Cost Of Sales",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400002",
+      "name": "Cost Of Goods Sold I/C Sales",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400003",
+      "name": "Basic Salary",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400004",
+      "name": "GOSI",
+      "type": "Expenses",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400005",
+      "name": "Transportation",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400006",
+      "name": "Leave Ticket",
+      "type": "Expenses",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400007",
+      "name": "Leave Salary",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400008",
+      "name": "End Of Service Indemnity",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400009",
+      "name": "Medical Insurance",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400010",
+      "name": "Iqama Fees",
+      "type": "Expenses",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400011",
+      "name": "Medical Test",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400012",
+      "name": "Office Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400013",
+      "name": "Uniform",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400014",
+      "name": "Visa Expenses",
+      "type": "Expenses",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400015",
+      "name": "Personnel Cost Others",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400016",
+      "name": "Office Rent",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400017",
+      "name": "Warehouse Rent",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400018",
+      "name": "Water & Electricity",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400019",
+      "name": "Other Utility Cahrges",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400020",
+      "name": "Telephone And Internet",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400021",
+      "name": "Courrier",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400022",
+      "name": "Web Site Hosting Fees",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400024",
+      "name": "Air tickets",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400025",
+      "name": "Hotel",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400026",
+      "name": "Staff Expenses",
+      "type": "Expenses",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400027",
+      "name": "Mobile And Computer Accessories",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400028",
+      "name": "Others",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400029",
+      "name": "Audit Fees",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400030",
+      "name": "Sponsorship Fees",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400031",
+      "name": "Legal fees",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400032",
+      "name": "Trade License Fees",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400033",
+      "name": "Stationary",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400034",
+      "name": "Equipment Rental",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400035",
+      "name": "Write Off Receivables & Payables",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400036",
+      "name": "Write Off Inventory",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400037",
+      "name": "Amortisation of Preoperating Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400038",
+      "name": "Cash Shortage",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400039",
+      "name": "Spare Parts",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400040",
+      "name": "Insurance",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400041",
+      "name": "Cars & Vehicles Maintenance",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400042",
+      "name": "Vehicles Insurance",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400043",
+      "name": "Security & Guard",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400044",
+      "name": "Cleaning",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400045",
+      "name": "Subscriptions",
+      "type": "Expenses",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400046",
+      "name": "Administrative Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400047",
+      "name": "Kitchen and Buffet Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400048",
+      "name": "Maintenance",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400049",
+      "name": "Basim Alshawakbah Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400050",
+      "name": "Others - Office Various Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400051",
+      "name": "Other Bank Charges",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400052",
+      "name": "Loss On Fixed Assets Disposal",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400053",
+      "name": "Loss on Difference on Exchange",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400054",
+      "name": "Disposal of Business Branch",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400055",
+      "name": "Printer Ink",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400056",
+      "name": "Previous Year Adjustments Account",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400057",
+      "name": "Other Non Operating Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400058",
+      "name": "Credit Card Charges",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400059",
+      "name": "Bank Finance & Loan Charges",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400060",
+      "name": "Air Miles Card Charges",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400062",
+      "name": "PayPal Charges",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400063",
+      "name": "Amortization on Leasehold Improvement",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400064",
+      "name": "Depreciation Of Furniture & Office Equipment",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400065",
+      "name": "Depreciation Of Computer Hard & Soft",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400066",
+      "name": "Depreciation Of Motor Vehicles",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400067",
+      "name": "Consultancy Fees",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400068",
+      "name": "Provision for Doubtful Debts",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400069",
+      "name": "Closing Account",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400070",
+      "name": "Depreciation on right of use asset (IFRS 16)",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400071",
+      "name": "Depreciation Of Tools And Equipment",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400072",
+      "name": "Zakat Expense",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400073",
+      "name": "Withholding Tax Expense",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400074",
+      "name": "Salary Deductions",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "400075",
+      "name": "Other Employee Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "40009",
+      "name": "Traffic Violations",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410001",
+      "name": "Domestic Travel Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410002",
+      "name": "International Travel Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410003",
+      "name": "Overhead -v- Diesel",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410004",
+      "name": "Consumable Materials",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410005",
+      "name": "Cleaning Work",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410006",
+      "name": "Safety",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410007",
+      "name": "Electrical&Plumping Materials",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410008",
+      "name": "Paint",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410009",
+      "name": "Doors & Windows",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410010",
+      "name": "Blacksmithing works",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410011",
+      "name": "Petrol",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410012",
+      "name": "Steels&Metals",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410013",
+      "name": "Custom Duties",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410014",
+      "name": "Medical Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410015",
+      "name": "Building Material",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410016",
+      "name": "Air Conditioner Materials",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410017",
+      "name": "Fire And Alarm System",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410018",
+      "name": "ISO Certification",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410019",
+      "name": "Aluminum",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410020",
+      "name": "R&D-Training",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410021",
+      "name": "Employee Deductions – Disciplinary",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410022",
+      "name": "Shipment Other Charges",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410023",
+      "name": "Aldrees Fuel Fees",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410025",
+      "name": "Courier Service",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410029",
+      "name": "Engineering Consultancy Fee",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410030",
+      "name": "Overtime Wage",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410031",
+      "name": "Land Rent",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410040",
+      "name": "Staff Bonus",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410050",
+      "name": "Car Parking",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410051",
+      "name": "TONER",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410052",
+      "name": "Oil",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410062",
+      "name": "Car Expenses",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410063",
+      "name": "Tile and Ceramic",
+      "type": "Cost of Revenue",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410064",
+      "name": "Containers Tests",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "410065",
+      "name": "Trash Container",
+      "type": "Expenses",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "41069",
+      "name": "Marketing",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "420010",
+      "name": "Depreciation on FRAMECAD F325iT",
+      "type": "Depreciation",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500001",
+      "name": "Sales Account",
+      "type": "Income",
+      "reconcile": true,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500002",
+      "name": "Sales of I/C",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500003",
+      "name": "Scrap Sales",
+      "type": "Other Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500004",
+      "name": "Sales from Other Region",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500005",
+      "name": "Advertising Income",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500006",
+      "name": "Branding Income",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500007",
+      "name": "Space Rental Income",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500008",
+      "name": "Service Income",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500009",
+      "name": "Interest Revenue",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500010",
+      "name": "Capital Gain",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500011",
+      "name": "Gain On Difference Of Exchange",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "500013",
+      "name": "Other Income",
+      "type": "Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999001",
+      "name": "Capital",
+      "type": "Equity",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999002",
+      "name": "Historical Adjustment",
+      "type": "Non-current Assets",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999003",
+      "name": "Cash Difference Loss",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999991",
+      "name": "Expenses Authorized by Owner",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999992",
+      "name": "Cash Deposit By Mubarak Aldossari",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999993",
+      "name": "Mubarak Aldossari Visa Card",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999994",
+      "name": "Al-Aali Mall",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999995",
+      "name": "Mubarak Salaries",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999996",
+      "name": "Al Shatea Mall",
+      "type": "Current Liabilities",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999997",
+      "name": "Cash Discount Gain",
+      "type": "Other Income",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999998",
+      "name": "Cash Discount Loss",
+      "type": "Expenses",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    },
+    {
+      "code": "999999",
+      "name": "Undistributed Profits/Losses",
+      "type": "Current Year Earnings",
+      "reconcile": false,
+      "company": "GITC INTERNATIONAL HOLDING  CO."
+    }
+  ],
+  "partners": [
+    {
+      "name": "شركة الدريس",
+      "email": null,
+      "phone": "+966 11 235 5555",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Multi Tower Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hulool & Masarat est.",
+      "email": null,
+      "phone": "+966 58 252 2182",
+      "country": null
+    },
+    {
+      "name": "Antiquitles World Trading Est.",
+      "email": null,
+      "phone": "+966 13 839 1366",
+      "country": null
+    },
+    {
+      "name": "JAZEERAT ALBINAA",
+      "email": null,
+      "phone": "+966 13 856 8999",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "SPACE CARE FOR TRADING",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Anwar Nasser Al-Essa Trading EST.",
+      "email": null,
+      "phone": "+966 13 899 5283",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Yasser Mohamed Saleh Al Ali Trading EST",
+      "email": null,
+      "phone": "+966 13 850 4011",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Khalid Al Bahar Trading Est.",
+      "email": null,
+      "phone": "+966 13 833 1233",
+      "country": null
+    },
+    {
+      "name": "Tamimi Markets",
+      "email": null,
+      "phone": "+966 3 807 5700",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "United Fuel Company (ENOC)",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "stc السعودية",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "General Organization for Social Insuranceالمؤسسة العامة للتأمينات الاجتماعية",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Amjad Al-Anwar Trade Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Diamond Sands Company For O&M",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Bassam Sharq For Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Amwaj Alkhalij CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Debris Container Est for Maintenance and Cleaning",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Amazon",
+      "email": null,
+      "phone": "+1 206-266-1000",
+      "country": "United States"
+    },
+    {
+      "name": "Nabil Al maoyuf trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Mousa specialized cables Est.",
+      "email": null,
+      "phone": "+966 51 001 4946",
+      "country": null
+    },
+    {
+      "name": "Mak fiberglass",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL ASMA STEEL Products CO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed Bamousa Trading Est",
+      "email": null,
+      "phone": "96622361717",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "GITC INTERNATIONAL HOLDING  CO.",
+      "email": "motasim.noor@gtc-intl.com",
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Gas Creative",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL QEMA AL SHARQIA TRADING EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Arkan Al Afia trading EST",
+      "email": null,
+      "phone": "+966 56 665 7541",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Trading in building materials",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "mosasata azdhar",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Horwf Ibda'a Trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "RADWAN BUILDING MATERIALS AND ELECTRICITY",
+      "email": null,
+      "phone": "+966 53 840 2850",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Receiving money",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "الاتحاد للتأمين التعاوني",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Tactical Solutions",
+      "email": "moatasim1111@gmail.com",
+      "phone": "0548064681",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Alfardan Hospitality",
+      "email": null,
+      "phone": null,
+      "country": "Qatar"
+    },
+    {
+      "name": "Fahed Khalid Balhamer trading co",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GULF ALLIANCE TRADING ESTABLISHMENT",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Talaia Future Company",
+      "email": null,
+      "phone": "+966 53 044 2006",
+      "country": null
+    },
+    {
+      "name": "الفحص الدوري للسيارات",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Aljazirah Rent A Car",
+      "email": null,
+      "phone": "+966 11 483 4158",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "مؤسسة ما بعد الخامسة التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AGHSAN AL AKHSHAB",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Algicom trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "aldress petrol",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Rassam CO. LTD. - Auto",
+      "email": null,
+      "phone": "+966 50 446 3048",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "JARIR BOOKSTORE",
+      "email": "jarir@jarirbookstore.com",
+      "phone": "+966 9200 00089",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "SAMI NASEER AHMEDN.",
+      "email": null,
+      "phone": "+966 13 830 0813",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "دهانات الجزيرة - Jazeera Paints",
+      "email": null,
+      "phone": "038981770",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "AL MITWALLI STEEL PRODUCTS FACTORY COMPANY",
+      "email": "info@msp.com.sa",
+      "phone": "+966 12 647 4645",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "DHL GLOBAL FORWARDING SAUDI ARABIA LOGISTICS SERVICES COMPANY",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "وزارة الموارد البشرية والتنمية الاجتماعية",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Ibrahim A. Al-Fares&Bros. Trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مركز ربيع الثريا",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "External Supplier - China",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Pipe World Trading Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Raya Gulf Trading Company",
+      "email": "sales@rayagulf.com",
+      "phone": "+966 13 899 1588",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Al-Saiari Est. for trad. ind. equipment",
+      "email": null,
+      "phone": "+966 50 330 6035",
+      "country": null
+    },
+    {
+      "name": "DCP SAUDI CO",
+      "email": "info@dcp-int.com",
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Nabae AL- Bayan Trading Est .",
+      "email": null,
+      "phone": "+966 11 540 4505",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Colors Specialist Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Fahad Al-Mangour & Partners Trading CO.",
+      "email": null,
+      "phone": "+966 13 834 8866",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Oasis structural trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "alfa alwan",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ALFURSAN MACHINAERY & EQUIPMENT CO",
+      "email": "alfursantools@gmail.com",
+      "phone": "+966 13850400",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "FAISAL AL MOHAMMADI TRADING EST",
+      "email": null,
+      "phone": "+966 13 834 4623",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Hishan Bin Alawi",
+      "email": null,
+      "phone": "+966 13 361 8445",
+      "country": null
+    },
+    {
+      "name": "nahdat al hulul",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "tiger achievement maintenance EST.",
+      "email": null,
+      "phone": "+966 54 488 8961",
+      "country": null
+    },
+    {
+      "name": "AL HADASS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "BITEC",
+      "email": null,
+      "phone": "+966 54 129 9517",
+      "country": null
+    },
+    {
+      "name": "Sultan Bin abdullah bin mubarak",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "VIP",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "oriental equipments",
+      "email": null,
+      "phone": "+966 59 434 5166",
+      "country": null
+    },
+    {
+      "name": "الجوازات السعودية",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "مطعم افراح لتقديم الوجبات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed Al zahrani est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Eastern oil corporation for maintenance",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GOOGLE CLOUD EMEA LIMITED",
+      "email": null,
+      "phone": null,
+      "country": "Ireland"
+    },
+    {
+      "name": "IKS Power Tools",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ibrahim Al faris est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ritver Paints Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Technical Concept Arabia Gen Cont LLC",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Unique star trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Wadah Al-Deira Car Maint. Workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Manzil Mustalzmat",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GoDaddy",
+      "email": null,
+      "phone": "+1 480-505-8800",
+      "country": "United States"
+    },
+    {
+      "name": "INDIGO Trading CO.",
+      "email": null,
+      "phone": "+966 55 094 5733",
+      "country": null
+    },
+    {
+      "name": "Karmod",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Masas Rental Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mastoora Work Shop",
+      "email": null,
+      "phone": "+966 54 810 1655",
+      "country": null
+    },
+    {
+      "name": "Adel Abu Baker Barakat",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al saud cement block factory",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Edadcom",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Elm",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Painting",
+      "email": null,
+      "phone": "+966 13 822 7390",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Palm",
+      "email": null,
+      "phone": "+966 11 206 8855",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "RUWAD ALAMAN FOR SAFETY EQUIPMENTS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "mohamed mohsen for building materials EST.",
+      "email": null,
+      "phone": "+966 53 831 4463",
+      "country": null
+    },
+    {
+      "name": "Arabia Insurance Cooperative Co",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Flyin.com",
+      "email": null,
+      "phone": "+966 11 224 6333",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Kosoor dar al higra",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mahfouz Saeed Al-Ghamdi Est. for general contracting",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Petroly Naf Station",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rehab Dubai Trading Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Shair Hussain Tile and Ceramic",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Top Purity Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Western auto company LTD.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "payment voucher",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة الزيوت الوطنية للتشغيل",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abduallah rashid alkhatani trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al sharq oils trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dammam cooling",
+      "email": null,
+      "phone": "+966 59 582 7078",
+      "country": null
+    },
+    {
+      "name": "KHALID SAEED HASSAN TRADING CO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "METAL CRAFT BLACKSMITH WORKSHOP",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mishari Mohammed Al-Araki Trading EST.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mousa Said Al-Asmari Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Tamkeen & Speed",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "shrooq alkhaleej",
+      "email": null,
+      "phone": "+966 56 662 0066",
+      "country": null
+    },
+    {
+      "name": "بنشر صبا علي ال ناصر",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة اقوي اطار لخدمات السيارات - strongest tire car services co",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Otheim - شركة اسواق العثيم",
+      "email": null,
+      "phone": "2547000",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Al Rayan and Gulf Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MASDAR TECHNICAL SUPPLIES",
+      "email": "info@mts.com.sa",
+      "phone": "+966 11 448 9999",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "MITWALLI STEEL PRODUCTS FACTORY CO.",
+      "email": "info@msp.com.sa",
+      "phone": "+966 12 636 9088",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Mountain Tools Trading Co",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Nader Ali al zayer",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ramez Shopping",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Salman Zimam Al khaldi trad. group",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "aldress",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "unifco fuel",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "بنشر الذهبي الخامس لخدمات السيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مطعم النجم الاصيل لتقديم الوجبات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdulrahman Ahmed Abdullah Alrajhi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "BAJA FOOD INDUSTRIES COMPANY",
+      "email": "info@baja.com.sa",
+      "phone": "+966 11 270 5415",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ESSA AL ANAZI CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "FURZANO INTERNATIONAL COMPANY",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GERMAN TECHNOLOGY AUTO SERVIC ES CO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "General Construction Store Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MAZAYA",
+      "email": null,
+      "phone": "+966 9200 17720",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Naseer mohammad",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Saudi Automotive Services(SASCO)",
+      "email": null,
+      "phone": "+966 11 206 8855",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Sika",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Yousuf Al-Ali for trading Est.",
+      "email": null,
+      "phone": "+966 13 839 0760",
+      "country": null
+    },
+    {
+      "name": "ABDULLAH ABDULWAHAB AL-BARRAK COMPANY FOR PLASTIC PRODUCTS",
+      "email": null,
+      "phone": "013340078",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Abdrab Al Ameer A. Al Haddad Trad. CO.",
+      "email": null,
+      "phone": "+966 13 899 8929",
+      "country": null
+    },
+    {
+      "name": "Al Abdulkarim Holding",
+      "email": null,
+      "phone": "+966 13 827 7777",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Al-Khobar modern for services car",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Yazidi Trading Co.",
+      "email": null,
+      "phone": "+966 12 689 6776",
+      "country": null
+    },
+    {
+      "name": "Articalnqa",
+      "email": null,
+      "phone": "+966 55 161 6644",
+      "country": null
+    },
+    {
+      "name": "Computer keyboard trading EST.",
+      "email": null,
+      "phone": "+966 56 402 2322",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "DEHIM BADAH DEHIM DOSARI TRADING",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "DHL",
+      "email": null,
+      "phone": "+966 13 882 9193",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Excellent corner establishment",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SAQAR AL BAHRAIN EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Tabador translation Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مغسلة فهد",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AGSAN AL AKHSHAB  TRADING CO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ALSOURAYIA FLOORING AND FURNITURE",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ALsuood",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Adeel Tufail",
+      "email": null,
+      "phone": "+966 55 618 2408",
+      "country": null
+    },
+    {
+      "name": "Ahmed hussen baqeel",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed omar bahaiwa sons co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al rowad advanced trading",
+      "email": null,
+      "phone": "+966 13 833 4640",
+      "country": null
+    },
+    {
+      "name": "Amazon",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "CDM",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "DCC trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "FRAMECAD",
+      "email": null,
+      "phone": "+64 9 377 6640",
+      "country": "New Zealand"
+    },
+    {
+      "name": "Fiafi Alsahra Co",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ghadeer Ahmed Bin Mohamed Amash Trading EST.",
+      "email": null,
+      "phone": "+966 58 107 2930",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Motion source Trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rayyan Al-Khair Trd. Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة القوة الزرقاء لخدمات السيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ورشة الطفيل",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed & Abdullah Algamdi Trading CO.",
+      "email": null,
+      "phone": "+966 13 899 4117",
+      "country": null
+    },
+    {
+      "name": "Al Faris building Material Co- شركة الفارس لمواد البناء",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ali mohammed Ali workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Bahr Al Keta Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Blue Penguin Company for trading",
+      "email": null,
+      "phone": "+966 13 841 4105",
+      "country": null
+    },
+    {
+      "name": "Debris container Est",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Elite Infrastructure & Tschnology",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "FAHAD KHALID BALHAMAR TRADING CO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Folaz Al-Khalej for trade Co.",
+      "email": null,
+      "phone": "+966 54 501 2062",
+      "country": null
+    },
+    {
+      "name": "Gotogate",
+      "email": null,
+      "phone": null,
+      "country": "United States"
+    },
+    {
+      "name": "Layan Alnour trading EST.",
+      "email": null,
+      "phone": "+966 55 604 0038",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Multi Task LLC",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mutab",
+      "email": "Mutab",
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Obeid Fahad Al dossary trading CO.",
+      "email": null,
+      "phone": "+966 13 890 0352",
+      "country": null
+    },
+    {
+      "name": "Plus Point Legal Translation",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Riyadh Tires Company For Car Services",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SAUDI BUSINESS CENTER",
+      "email": "admin@bc.gov.sa",
+      "phone": "+966 56 009 5959",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Wahab Al Jazeera Trading Company",
+      "email": null,
+      "phone": "+966 13 830 0793",
+      "country": null
+    },
+    {
+      "name": "اسواق هلا الفرسان",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "فرع المدينة البيضاء لتوزيع الغاز",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة المتحد للزجاج السيارات",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "مغسلة مزايا",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "A-deyar Al",
+      "email": null,
+      "phone": "+966 53 105 9081",
+      "country": null
+    },
+    {
+      "name": "ALMOSAFER FOR TRAVEL AND TOURISM COMPANY",
+      "email": "info@almosafer.com",
+      "phone": "+966 11 484 6262",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "AP tools",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Taj INTL Trading CO.",
+      "email": null,
+      "phone": "+966 58 120 5336",
+      "country": null
+    },
+    {
+      "name": "Al-kawther star",
+      "email": null,
+      "phone": "+966 13 856 6160",
+      "country": null
+    },
+    {
+      "name": "AliExpress",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "BADR AL JAZEERA MEDICAL COMPANY",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Danube Hyper Market",
+      "email": "danube@danubeco.com",
+      "phone": "+966 800 244 2225",
+      "country": null
+    },
+    {
+      "name": "Emdad Bridges For Ind Equ Est",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Enoc",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Farm - المزرعة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GoDaddy.com, LLC",
+      "email": null,
+      "phone": "+1 518-966-9187",
+      "country": "United States"
+    },
+    {
+      "name": "Horizon Technical trading est.",
+      "email": "horizonksa@outlook.com",
+      "phone": "+966 53 636 5485",
+      "country": null
+    },
+    {
+      "name": "Makarem ALNokhba",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mubarak bin Falah Bin Mubarak Al-Hajri Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "NAJMAIN Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Oil pioneers trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rawabi Al Dofah Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rawasi Al Sharqiah",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Tawasolmap",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Travelwings.com",
+      "email": "rajiv.bhattacharjee@travelwings.com",
+      "phone": "+971 4 556 1002",
+      "country": "United Arab Emirates"
+    },
+    {
+      "name": "almar container",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "wasl al sharqiyah",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة خدمات النفط",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مغسلة خالد للسيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ALZAHID TRACTOR",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Advance Solution",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed al rajhi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Dowayan Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al humaidani trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al maher for energy",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al siraj silver trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Asharqiah cables trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Asia orouba trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Atiaf Factory for paints",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "B2 Print",
+      "email": null,
+      "phone": "+966 13 893 9903",
+      "country": null
+    },
+    {
+      "name": "BURRAH AL KALEEJ",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Bayt Al Andalus",
+      "email": null,
+      "phone": "+966 55 984 7625",
+      "country": null
+    },
+    {
+      "name": "Construction experience of building",
+      "email": null,
+      "phone": "+966 54 391 6514",
+      "country": null
+    },
+    {
+      "name": "Diyar wadha",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Durrat Alkhozama Medical",
+      "email": null,
+      "phone": "+966 13 802 0882",
+      "country": null
+    },
+    {
+      "name": "EAST WEST HYPERMARKET COMPANY",
+      "email": "infoksa@nestogroup.com",
+      "phone": "+966 11 438 7754",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Eastern Building Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Essa bin muhammed est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Faisal Al hairthi auto repairs",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Golden breakers",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Gulf soft Trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "JOUD RENEWABLE SPARE PARTS CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Kar Mod",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "LEOC",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Labeed Najib Al Mana Trading EST.",
+      "email": null,
+      "phone": "+966 13 833 1866",
+      "country": null
+    },
+    {
+      "name": "Mohammed Misfer Al-harith Trading CO.",
+      "email": null,
+      "phone": "+966 13 803 2892",
+      "country": null
+    },
+    {
+      "name": "Nahla",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rawabi Al sail foundation for security",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SAUDI TIRES COMPANY",
+      "email": null,
+      "phone": "+966 55 300 7103",
+      "country": null
+    },
+    {
+      "name": "Tashelat Marketing Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Tawfiq Al Rayes Trad Est",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Yousuf M. al zahrani cement product.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ZKTECO SECURITY L.L.C",
+      "email": null,
+      "phone": null,
+      "country": "United Arab Emirates"
+    },
+    {
+      "name": "alsinistore",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "quality building materials EST.",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "sAMI aL MADI EQUIPMENT RENTAL EST.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "services bridge est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "العناية بالعملاء(بلدي)",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "شركة جود الرياض التجارية شركة شخص واحد",
+      "email": null,
+      "phone": "+966 56 404 8222",
+      "country": null
+    },
+    {
+      "name": "مؤسسة اصول الاضاءة التجارية",
+      "email": null,
+      "phone": "+966 59 995 9515",
+      "country": null
+    },
+    {
+      "name": "مطعم بخاري",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "310493832700003",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ABU JAMAL SIGNS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL HIMMA",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alam Al-Madinah Est.",
+      "email": null,
+      "phone": "+966 55 817 4059",
+      "country": null
+    },
+    {
+      "name": "Alamat albinaa trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alibaba",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dammam Glass",
+      "email": null,
+      "phone": "+966 55 060 9957",
+      "country": null
+    },
+    {
+      "name": "Dora Al tawoon",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GPS CARGO",
+      "email": "info@gpscargo.global",
+      "phone": "+966 13 820 2797",
+      "country": null
+    },
+    {
+      "name": "Heavy Equipment rental",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hebei Sensairunsi Import & Export Trading Co., Ltd",
+      "email": null,
+      "phone": null,
+      "country": "China"
+    },
+    {
+      "name": "JARA",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Jazeerat Al-Alwan For Building Materials",
+      "email": null,
+      "phone": null,
+      "country": "India"
+    },
+    {
+      "name": "LOZOJAH",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mohammad Dossary Hospital",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "NHC",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Nadeem Ahmed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Nofuz Al-khar Khair TRAD. EST.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Original Parts Trading Co.",
+      "email": null,
+      "phone": "+966 53 139 2327",
+      "country": null
+    },
+    {
+      "name": "SN",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "STEEL FORCE TRADING COMPANY",
+      "email": "info@steelforceco.com",
+      "phone": "+966 13 830 1444",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Telal easham co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Yes Atlas Travel Tourism",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "arab pros machinery and equipment",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "crane rent",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "flynas",
+      "email": null,
+      "phone": "+374 10 563624",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "king Oil",
+      "email": null,
+      "phone": "+966 54 024 6008",
+      "country": null
+    },
+    {
+      "name": "mopar",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "orbit commercial est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "unified solution company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "united digital",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة عبدالله صالح البلال للتجارة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة قصر دبي التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "كبار الفخامة لصيانة السيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "وزارة الشؤون البلدية والقروية",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ABDULLAH IBRAHIM AL ZUHAIR AND PARTNER TRADING COMPANY",
+      "email": "info@alzuhair.com",
+      "phone": "+966 13 846 1877",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ADNOC Distribution",
+      "email": null,
+      "phone": "+971 2 677 1300",
+      "country": "United Arab Emirates"
+    },
+    {
+      "name": "ADmarket",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AIRSIAL TRAVEL LIMITED",
+      "email": null,
+      "phone": null,
+      "country": "United Kingdom"
+    },
+    {
+      "name": "AL TAKWA AL SHARQYA EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL-NEMAR TRADING CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ALYAHA TRADING EST BUILDING MATERIALS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdullah bin Hassan al anbari est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Adark Albina Trading Est.",
+      "email": null,
+      "phone": "+966 13 346 2493",
+      "country": null
+    },
+    {
+      "name": "Al khabir",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al tar auto services",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al- Qahtani",
+      "email": null,
+      "phone": "+966 11 548 8829",
+      "country": null
+    },
+    {
+      "name": "Al-Nafoz World Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Sikka Car Service Establishment",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Soqor Center",
+      "email": null,
+      "phone": "+966 53 596 8454",
+      "country": null
+    },
+    {
+      "name": "Al-Suhaimi Holding",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Ali express",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alu mart",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Amna Saadan Est.",
+      "email": null,
+      "phone": "+966 50 781 5987",
+      "country": null
+    },
+    {
+      "name": "Ayman abdullah trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Babalghoum Auto spare parts",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Bridgestone",
+      "email": null,
+      "phone": "+966 54 147 4622",
+      "country": null
+    },
+    {
+      "name": "COMPUBAND",
+      "email": null,
+      "phone": null,
+      "country": "South Africa"
+    },
+    {
+      "name": "Commercial Vehicle Guide Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Computer Services Trading Est",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Darb Alwatan",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "East Dallah equipment maintenance workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Food world trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GULF MASHARQ TRADING COMPANY",
+      "email": "info@kaku-world.com",
+      "phone": "+966 13 833 5669",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Gulf Advice Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hawyat Anqad Est. For Maintenance and Cleanliness",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Henan Shuanglong Machinery Co., Ltd.",
+      "email": null,
+      "phone": null,
+      "country": "China"
+    },
+    {
+      "name": "IBRAHIM ABDULLAH AL- MOUSA",
+      "email": null,
+      "phone": "+966 50 975 5102",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "IHerb, LLC",
+      "email": null,
+      "phone": "+1 951-616-3600",
+      "country": "United States"
+    },
+    {
+      "name": "Ibrahim Al-Razqan Automotive services",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Juffali technical equipment",
+      "email": null,
+      "phone": "+966 17 227 3377",
+      "country": null
+    },
+    {
+      "name": "KAIFIYAT A BENAA TRAD. EST.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Khusheim Corporation",
+      "email": null,
+      "phone": "+966 13 856 0405",
+      "country": null
+    },
+    {
+      "name": "Legend car accessories",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MAKEMYTRIP (INDIA) PRIVATE LIMITED",
+      "email": "compliance@go-mmt.com",
+      "phone": "+91 124 439 5000",
+      "country": "India"
+    },
+    {
+      "name": "MIDDLE EAST TRADING",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Magic Flooring",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Maintenance and Solutions Establish",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Marker",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mudad",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Mujtaba",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Multi Safety Trading EST.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "NHS Trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Naz trading Est.",
+      "email": null,
+      "phone": "+966 54 113 3232",
+      "country": null
+    },
+    {
+      "name": "Port Line logistics company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Power & Control trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rawafie Al Khalij spare parts",
+      "email": null,
+      "phone": "+966 55 183 5543",
+      "country": null
+    },
+    {
+      "name": "Rent A Car",
+      "email": null,
+      "phone": "+966 11 483 4158",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "SACO",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "SDT",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SPC",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Salem Ahmed Bin Yamani company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "United Ahin car wash",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "United Ice plants com.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Wahb al jazeera trading co.",
+      "email": null,
+      "phone": "+966 55 910 7516",
+      "country": null
+    },
+    {
+      "name": "al husaam technical",
+      "email": null,
+      "phone": "+966 56 213 3931",
+      "country": null
+    },
+    {
+      "name": "altaj alasli",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "arabian barq crest industries company",
+      "email": null,
+      "phone": "+966 59 445 6655",
+      "country": null
+    },
+    {
+      "name": "jotun",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "khayal  al oud company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "lamasat style",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "middle eastern",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "mpsasata azdhar",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "noon",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "power control systems",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "quinex",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "salman ziman al khaldi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "sara workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "smou business",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ستوديوهات و معامل ابوعبدالعزيز",
+      "email": null,
+      "phone": "+966 13 895 4514",
+      "country": null
+    },
+    {
+      "name": "شركة مواكبة العالم لتجارة الجملة و التجزئة",
+      "email": null,
+      "phone": "+966 50 643 5788",
+      "country": null
+    },
+    {
+      "name": "مؤسسة رحلة القيصر للشحن",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة صيده اليامي للبطاريات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مطعم النور لتقديم الوجبات1",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مكتبة دار الهجرة بيع الكتب و الادوات القرطاسية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "وزارة النقل",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "00",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "3H safety equipments company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL JAMIAH TRADING EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL amal food stuffs",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL-Watan Al-Hadith Workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AO ONAIZI",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Aamal al arif trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdulaziz al jubran",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed basheer hamad est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Baijan For Trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Faraa international trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Masdar",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Naham - Finger Print",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al abbas trading store",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al briki transportation",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al faris",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al mathalya for decoration",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al qahtani workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Manhal Water Factory Co. Ltd",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Shuwaier Car Services",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Wisam Laundry2",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AlectroTel",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alfanoos",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alghamdi trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alhazm",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ali mohammed al humaidi co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ammar for commercial supplies",
+      "email": null,
+      "phone": "+966 56 359 1590",
+      "country": null
+    },
+    {
+      "name": "Atlas international equipment est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "BAHAR AL- AMASY TRADING FOR EST.",
+      "email": null,
+      "phone": "+966 50 584 8919",
+      "country": null
+    },
+    {
+      "name": "Bahashwan international trading CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Bawany Nagd trading CO.",
+      "email": null,
+      "phone": "+966 54 346 1504",
+      "country": null
+    },
+    {
+      "name": "Bayt Alebaa",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Benz trading Co.",
+      "email": null,
+      "phone": "+966 13 808 6618",
+      "country": null
+    },
+    {
+      "name": "Blue Lines Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Bright light Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Capital information technology system CO.",
+      "email": null,
+      "phone": "+966 13 896 0890",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Clean city trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Colors Oasis Trading Est",
+      "email": null,
+      "phone": "+966 55 000 4560",
+      "country": null
+    },
+    {
+      "name": "DARB ALWATAN",
+      "email": null,
+      "phone": "+996 574 483 967",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Dallah Al dammam trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dar Al hadeeqa Trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dawood Ahmed Al- shizawi Trading Est.",
+      "email": null,
+      "phone": "+96613847222",
+      "country": null
+    },
+    {
+      "name": "Decoration World",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "EMAYIR ALKHALIJ",
+      "email": "admin@eagc-ksa.com",
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Electro Tel",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Engines expert company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Fadak plumbing and electrical",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GULF TYRE TRADING CO.",
+      "email": "gulftyredammam@outlook.com",
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Golden tools for industrial equipment co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Goodyear",
+      "email": null,
+      "phone": "+1 330-796-2121",
+      "country": "United States"
+    },
+    {
+      "name": "Gulf grill",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Gulf shores reasturant",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "HADI OMAIRAH TRADING EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "HAWRA YOSUF BIN AHMED AL NUJAIDI ELECTRONICS EST.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "HEAVY EQUIPMENT RENTAL",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "HEMMAHAT COMPANY LIMITED",
+      "email": null,
+      "phone": null,
+      "country": "Thailand"
+    },
+    {
+      "name": "HUSSAIN A. AL.DARWISH",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hamad Salem Al Rashdi Est",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Hassoun Communication Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hiring For engineer",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hoda S.AL hashem est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hoor International Contracting Co",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Integrated Technical",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "JADAWELL WATER FACTORY COMPANY",
+      "email": "info@jadawell.com",
+      "phone": "+966 13 812 1888",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "JAHEER CORNER COMPANY",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Kawafel Sar Car maintenance shop",
+      "email": null,
+      "phone": "+966 57 285 8318",
+      "country": null
+    },
+    {
+      "name": "Khereiji Showrooms Company Limited",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "King Khaled Intel Airport",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Kiwi.com",
+      "email": null,
+      "phone": null,
+      "country": "United States"
+    },
+    {
+      "name": "LAMSAT AL IMTIAZ",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Laundries In The Ninetieth Year",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Leadership tools trading.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MHD ALSHIFA MEDICAL CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MIM ARABIAN",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MUTAKAMELA INSURANCE COMPANY",
+      "email": "Customerservice@mutakamela.sa",
+      "phone": "9668213207",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Maha Zaid Saud Trading Est.",
+      "email": null,
+      "phone": "+966 13 830 0211",
+      "country": null
+    },
+    {
+      "name": "Manaq Al-Rabie Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Manar Abdullah Zaid Al-otaibi Trading EST.",
+      "email": null,
+      "phone": "+966 57 267 1003",
+      "country": null
+    },
+    {
+      "name": "Manar al asimah trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mawani saudi ports authority",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Metal Art Blacksmith Company(MABCO)",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mohamed A. Almehri Work Shops Car Services",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mohammed A. Eexb for building materials",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mohd. A. M. Al Muhaimeed Trad. Co.",
+      "email": null,
+      "phone": "+966 58 104 5098",
+      "country": null
+    },
+    {
+      "name": "Mohd. Said Al harthi trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mortada general contracting",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mtam awel",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Munira Al hajri trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Muteb yahya al malki building materials",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "N SHIELD",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "National Industrial Calliboration",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Natural palaces co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Noor Al Jadeed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Nour Al Sana Est. For Trading",
+      "email": null,
+      "phone": "+966 55 789 8159",
+      "country": null
+    },
+    {
+      "name": "Pearl Gulf Towers Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "RELIANCE COMPUTERS",
+      "email": null,
+      "phone": null,
+      "country": "India"
+    },
+    {
+      "name": "Rabie Althurayaa",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rose Mart",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SAMA SEEMA FOR TRD.EST",
+      "email": null,
+      "phone": "+966 59 038 6739",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "SAWAED CONSTRUCTION AND DEVELOPMENT GENERAL CONTRACTING ESTABLISHMENT",
+      "email": null,
+      "phone": "+966 12 261 3888",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "SEBEA ALSEBAA COMPANY",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "STC Channels 1001",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Saad Equipment Rental",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Salem Balhamer Trading Co. LTD.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Sas Barakh est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Shouguang Essen Wood Co.LTD",
+      "email": "katie@esenwood.com",
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Sondos Al astoura auto services co",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Total energies",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "WATANIYA INSURANCE COMPANY",
+      "email": "Info@wataniya.com.sa",
+      "phone": "+966 50 530 1028",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Yanabie Alshalaal for building materials Est.",
+      "email": null,
+      "phone": "+966 56 899 1032",
+      "country": null
+    },
+    {
+      "name": "Zahra Amir Bin Mahdi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Zahrat Hassan Al Chef Car Maintenance Workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Zone system Trading EST.",
+      "email": null,
+      "phone": "+966 13 899 9150",
+      "country": null
+    },
+    {
+      "name": "al itqam",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "alkawther star chemical est",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "burkat alwadi trade est",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "china expenses",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "kaifiyat al bena trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "masdar",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "petrol - Dammam 154",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "saco ساكو",
+      "email": null,
+      "phone": "+966 11 542 2205",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "الطيب الماسي",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "العجمي لزينة السيارات",
+      "email": null,
+      "phone": "+9665444464",
+      "country": null
+    },
+    {
+      "name": "المنهالي لقطع غيار السيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "سنابلي",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة النفط العمانية للتسويق",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة امواج الخليج للتجارة والاستثمار",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة بابا خباز",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة خدمات الطاقة",
+      "email": null,
+      "phone": "+966 9200 35789",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "شركة هلا السعودية للخدمات البترولية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "فرع مؤسسة الصيعري التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة احساس البرود لصيانة المكيفات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة العروبة فود للمواد الغذائية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة دار الرباط للتجارة",
+      "email": null,
+      "phone": "4482842",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "مؤسسة دلال خالد الرهيب التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة عبدالرحيم احمد اليافعي التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة قمة السيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة محمد سعد محمد القعيد",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "محطة الشرق",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "محطه منير سفير المطيري للوقود",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مغسلة الحلبية للسيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مكتبة الوان المعرفة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "نسيم الرواد",
+      "email": null,
+      "phone": "+966 50 049 7805",
+      "country": null
+    },
+    {
+      "name": "هيئة المحاسبين",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ورشة منارات السادسة عشر",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "300906059700003",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "3max",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ABDULLATIF HUSSEIN ABULJADAYEL & SONS COMPANY",
+      "email": "info@alajlabchem.net",
+      "phone": "+966 9200 26696",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ABDULRAHMAN ABDULLAH A. ALARFAJ TRADING EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL BRAIDY For Hand Tools",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL ESAEI",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL FARAJ COMPANY",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL SAIF TRANSPORTER",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL yazidi trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ALMATHALYA FOR DECORATION",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AMAZON ARABIC COMPANY",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ARAB COMPANY FOR LABORATORIES AND SOIL",
+      "email": "acescorp@aces-int.com",
+      "phone": "+966 11 237 2222",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Abas Ali H alahmad shop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdul Hameed Al Mubarak Trading Co.",
+      "email": null,
+      "phone": "+966 13 868 8308",
+      "country": null
+    },
+    {
+      "name": "Adwaa al wadi trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed naseer bin ali",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ajwa Al Baha Est",
+      "email": null,
+      "phone": "+966 56 160 7671",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Al Heswah Trading Co. L.L.C",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Musharaf INTL. trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Shati Mall",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al esnad",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al hal trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al khaleej",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al mubarak car maintenance",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al rajhi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al sahli Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al thuwaini trading",
+      "email": null,
+      "phone": "+966 53 741 2120",
+      "country": null
+    },
+    {
+      "name": "Al-Ettihad Cooperative Insurance Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alharam perfect machinery",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alma MEP Solutions",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Almunif Pipes",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "BSE Cylinders",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Bashir Al ismail est",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Best in Globe Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Binyamani",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dana trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dejlah trading EST.",
+      "email": null,
+      "phone": "+966 13 837 8020",
+      "country": null
+    },
+    {
+      "name": "Dorrar Al-kawam",
+      "email": null,
+      "phone": "+966 50 441 9870",
+      "country": null
+    },
+    {
+      "name": "EASTERN PROVINCE AMANA",
+      "email": null,
+      "phone": "+966 13 834 1800",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "EVERGREEN SHIPPING AGENCY SAUDI CO LLC",
+      "email": "biz.dmn@evergreen-shipping.com.sa",
+      "phone": "+966 13 833 3566",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Eram company LTD.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Establishment alakwan",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Express altayar for land transportation",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Fasah Pay",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Forsan Al medan trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "GAFA MARKET",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ghassan Al mulhim",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ghazal for tires EST",
+      "email": null,
+      "phone": "+966 50 005 1110",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Giant Palace Center",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Golden filters",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Grace world trading company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Gulf Mark metal industries",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "HASSAN BIN ABDULLAH",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ibrahim Naseer Alothman",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Kenz Al jisr",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Kram Metal",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Luminous World",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Maged ibrahim Almobaidh-Riyadh Office Rent",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mazaya al khobar trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Middle eastern trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mideast Business solution trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Motawir Plus",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "NOOR AL SALAMA",
+      "email": null,
+      "phone": "+966 58 387 7780",
+      "country": null
+    },
+    {
+      "name": "NOOR COMPUTER EAST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "NORTH FUTUER COMPANY",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Naham Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Nahdi Medical Co.",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Najm Alrayat trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Nataq",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "National hardware centre",
+      "email": null,
+      "phone": "+966 13 864 1102",
+      "country": null
+    },
+    {
+      "name": "Odoo",
+      "email": null,
+      "phone": "+1 650-691-3277",
+      "country": "Belgium"
+    },
+    {
+      "name": "Power tOOLS AND SUPPORTING ACCESSORIES",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "QATRAT NADA EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "RICI COMPANY LTD",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Royal Saudi Air Force",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SAUDI ARABIAN MARKETING AND AGENCIES COMPANY",
+      "email": "info@samaco.com.sa",
+      "phone": "+966 9200 00565",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "SMI LOGISTICS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Sadeem Trading Company",
+      "email": null,
+      "phone": "+966 11 298 8961",
+      "country": null
+    },
+    {
+      "name": "Sama Al Nakheel For the Furnished Units",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Samir bin saeed abu bashit",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Saudi north thunder company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Sharaf Hussain Al saadah",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SmartPlus Company",
+      "email": null,
+      "phone": "+966 11 412 9412",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Speed House",
+      "email": "info@speedhousesa.com",
+      "phone": "0548064681",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Speed and Solution",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "TRADE UNION",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "TURJUMAN ALHIJRAH TRANSLATION OFFICE",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Taha warehouse",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Taj Alhudu Electric Co.",
+      "email": "tajalhudo@gmail.com",
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Taysir Ali al leef trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Thwifty",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "TilesAndTiles",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Tire Stores",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Tires Stores Trading Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Trip.com",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Wafaa Iibrahim mohamed haqwi trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Waha rayan trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Wasl Al shoumoukh",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Wheels lathe",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Wooden window trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Zaheer corner company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Zakat tax and customs authority",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ansar",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "barq al asel center",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "colors gate trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "eMAAR ALSHATI INDUSTRIAL CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "karam al bayt",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "nouralwajeha",
+      "email": null,
+      "phone": "+966 50 487 0077",
+      "country": null
+    },
+    {
+      "name": "sand",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "sasco",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "saud abdullah bin mohammed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "superior care",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "waseela hussain",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "الهيئة السعودية للمقاولين",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "عرفان احمد محمد اشرف",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة اجواء الباحة",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "مؤسسة جواد حسن محمد الصادق التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "محمد عاطف احمد مكاوي-اعمال سيراميك",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مغسلة سر النعومة للسيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "1111",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AAMALY - أعمالي",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ALEBDAAT ALBADIA",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ARAMEX SAUDI CO. LTD.",
+      "email": "ruhcare@aramex.com",
+      "phone": "+966 800 100 0880",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ASHARQIA CHAMBER",
+      "email": "info@chamber.org.sa",
+      "phone": "+966 13 859 8030",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "AZIDAK GENERAL CONTRACTING COMPANY",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Abu hadariya",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed Al-Aamri Trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed salman Al yosef",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Air India Express",
+      "email": null,
+      "phone": null,
+      "country": "India"
+    },
+    {
+      "name": "Al - TOFEEL Workshop LAEHE",
+      "email": null,
+      "phone": "+966 50 294 9059",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Al Rowashed Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al akvan",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al ali building material store",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al amthal Foundation For maintenance",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al amthal foundation",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al ateeq equipment renting",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al heswah Trading Co. LLC",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al sehri Trading.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Attia Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Mishael Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AlForsan Machinery",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alam alkhazayin",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Almutamayiz first car workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alwakali Workshop",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Amadeldin Elhadi Abdelrahman Haroun",
+      "email": "moatasim.gtc@gmail.com",
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Arkan Al naha trading CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Arzaq Almadina Trading CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "BRAVOFLY SA",
+      "email": null,
+      "phone": "+41 91 683 33 39",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Buddi Bahad Bishowakarma",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "CASCO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Choice Automotive Services Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dar Al zabraj",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Delta international office",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dev chandra Mahato",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Doaa Al-Oufi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dragon Workshop for car maintenance.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dragon wash",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "EDAAT",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ENERGY BOX Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ENGAZ ALKABIR TRADING CO .LTD",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Eirad trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Electric House",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Flight Network Ltd",
+      "email": null,
+      "phone": "+1 905-829-8699",
+      "country": "Canada"
+    },
+    {
+      "name": "For block and readymix",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Golden Support For Real Estate",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Golden Towers Computer Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Grace world trading company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Gulf key company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Halamarket",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hamad AR alaiwi co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hamad saad trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hanyyah equipment rental est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hassan Abdullah",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hawraa Al-Bakheet",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hero decor",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hydraulic supplies",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "IBRAHIM SHAKER COMPANY LTD",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ICG International Certification Group",
+      "email": null,
+      "phone": "+966 56 131 2563",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Ibrahim Mohammad Al Khuwaitem Trading Est - SMR",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Itqan Tech",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "KINDA",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "KPS station",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Kefah security est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Leader express",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MAHMOUD TULBAH CONTRACTING EST. (MT-ENTERPRISES)",
+      "email": "julius.claus@mt-enterprises.biz",
+      "phone": "9665540640379",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "MAKAYIN",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MAP PREMIUM RENTAL EQUIPMENT CO.",
+      "email": "moatasim.gtc@gmail.com",
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MindMerge Training & Consulting",
+      "email": null,
+      "phone": "+966 13 896 1700",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Modern String Reconstruction",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mohammed Balhamar Trad. Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mohsen saif",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mousassa Takamil Al-Dammam Lamawad Al Binaa",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Muhammed abdullah trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mujtaba aabdullah",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "NAHLA AL KHALEEJ TRADING LLC",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "NAJM SWEET WARET",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "NOON SOLUTIONS FOR E COMMERCE COMPANY",
+      "email": "care@noon.com",
+      "phone": "+966 800 116 0210",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Naz Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ONE STOP SOLUATION TRADING",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "PAINTS CO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "PETROMIN CORPORATION",
+      "email": "info@petromin.com",
+      "phone": "+966 9200 23345",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Parts gate for auto",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Petty Cash-Rasha Nagmeldin Mohamed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Petty cash-Mohamed Ahmed Shaban Ali",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Pioneering Power projects Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Power trading est.",
+      "email": null,
+      "phone": "+966 55 256 5321",
+      "country": null
+    },
+    {
+      "name": "QPS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Qena Daoud Ezz Eldin Mubarak",
+      "email": null,
+      "phone": "+966 50 296 2592",
+      "country": null
+    },
+    {
+      "name": "Qiwa",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "RASHA NAGM ELDIN FADLALLA",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "RBJ company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "RG Power",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ranaj Water",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Roma castle",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SARDAQ TRADING CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SMSA Express",
+      "email": null,
+      "phone": "+966 11 463 3999",
+      "country": null
+    },
+    {
+      "name": "SPL",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Sajya maintenance",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Sallah Trading Co",
+      "email": null,
+      "phone": "96612062110",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Saudi fiber factory",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Sawari Al Azizia Foodstuff Groub",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "THE COMPANY FOR COOPERATIVE INSURANCE",
+      "email": "IR@tawuniya.com.sa",
+      "phone": "+966 11 252 6622",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Top line",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "UAE VISA PLATFORM",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "White panther",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Wingie GmbH",
+      "email": "info@wingie.com",
+      "phone": null,
+      "country": "Germany"
+    },
+    {
+      "name": "Zaid Saeed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "abdullah bin hassan",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "bqalt ans faleh",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "oasis liver",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "sewage work",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "unifco",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ابيات للشقق المفروشة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "تموينات ركني الشرقية للمواد الغذائية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة احمد علي خميس البادري",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة التاج اللؤلؤي التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة سعيد سفر القحطاني لتاجير المعدات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مخرطة الجنوط",
+      "email": null,
+      "phone": "+966 59 359 6941",
+      "country": null
+    },
+    {
+      "name": "ABDULLAH ALJABR",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ABDULLAH GHAZI AL-ATTAS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AGHSAN AL AKHSHAB",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AL OSOUL مؤسسة درة الاصول للتجارة",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "ALABDULKARIM HOLDING C",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ALMATHALYA FOR DECORATION",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ANIL BISHNOI BABULAL BISHNO",
+      "email": "anil.bishnoi@gtc-intl.com",
+      "phone": "+966 53 975 2614",
+      "country": null
+    },
+    {
+      "name": "ARABIAN GERMAN FOR EXHIBITIONS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "AZKATEC",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdul Rahim Al Yafei Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdul Rahman Abdul Latif Al-Sheikh Mubarak Engineering Consulting Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdul rehman lafi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdulaziz Ahmad Al-Atrash Trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdullah Salem Al-Maliki",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Abdulwahab Dahan",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Adnoc",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed A. Al-Hamamy Trad. Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed Hamdi Bedir Soliman Elsobki",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed Mohammed Raffat",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ahmed S.Al-Enezi For Trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Aida Mariy Mubark Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al - luwaimi station",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al -itqan",
+      "email": null,
+      "phone": "+966 56 348 1780",
+      "country": null
+    },
+    {
+      "name": "Al Aali Mall",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al Afdal Al Thania trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al dhahabi private auto services",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al hanoo fourm restaurant",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al taqwa",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al thuwaini trading company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Baraka Al-Sharqia trading EST.",
+      "email": null,
+      "phone": "+966 50 837 3538",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Al-Eslah Al-Ola workshop for car services",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Ghadeer",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Ruba Technical Co",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Al-Sakrab Market Al-Badrani",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Alaa Shaaban Hassane Ibrahim",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Aldrees Petroleum & Transport Services Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Aldrees Petroleum and Transport Services Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Aldrees Petroleum and Transport Services Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Algosaibi Hotel",
+      "email": null,
+      "phone": "+966 13 882 2882",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Alharam perfect",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ali Ahmed Hamed Aboubakr",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Allied Cooperative Insurance Group",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Almanea",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Almunif Pipes",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Amazon arabic company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Aryam Khaled Al-Maliki",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ateeq Ahmed Mansour",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Azeidk fire panel",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "BADER.AL JABRI CO . FOR CAR SERVICES",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "BLUE FLAME TRADING CO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Bahr Alamsi Est",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Car Rent",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Carl",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Consolidated shipping services",
+      "email": null,
+      "phone": "+966 13 821 1263",
+      "country": null
+    },
+    {
+      "name": "DAO Boutique AL-KHOBAR",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "DELTA ARAB",
+      "email": "deltaarabsafety@gmail.com",
+      "phone": "+966 53 294 8202",
+      "country": null
+    },
+    {
+      "name": "Daco",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Dana Al-Dosari",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Digital World Advertising Agency",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "EJAR",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Eastern Building Trading est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ElectroTel KSA",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Emmar Alshaati industrial",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Eng. Ahmed Mohamed Ibrahim",
+      "email": "ahmedmabd404@gmail.com",
+      "phone": "0504352907",
+      "country": null
+    },
+    {
+      "name": "Etimad Developer Portal",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Fahad Hasan Al-Younis For Sanitary Ware Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Fantasy alburouj contracting",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "For Paint",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Forsan Al Medan Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Fuji Star Trading Company",
+      "email": null,
+      "phone": "+966 53 806 9651",
+      "country": null
+    },
+    {
+      "name": "GLASS CITY TRADING ESTABLISHMENT",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "Ghadeer International Trading Company",
+      "email": null,
+      "phone": "+966 13 667 1716",
+      "country": null
+    },
+    {
+      "name": "Global electrical",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Gulf key",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Haji Bin Maadi Albaqmi Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hala",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hishan Bin Alawi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hussain Mansour Abdullah Al Herz Trading Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Hussein Mohamed Hussein Salem Saad",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "IKS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ideal Global Solution Logistics Company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Jazeera paints",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "KABAYAN CENTER",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "KL 14 COMPUTERS",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "KOSOOR DAR AL-HIGRA CONT. CO.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Karim Ramadan Shaaban Hafez",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Karlis Ajeeb Masoud",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Kayan Business Trading Co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Khalid Qadoorah",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Kudu",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Lamia Hamad Salem Al Khaldi Car Maintenance Center",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Legend car accessories",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "MASNA MATER MOHAMMED ABOTAFISH",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Madhawi Al-Duwish",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mahmoud Farrag Khamis Salama",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mansour Ali Alkhaldi Trad. Est.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Maryam Asaad Al-Maliki",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Ministry Human Resources And Social Development",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mishari Mohammed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mobarak Siddig Ahmed Mohamed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mohamed Saeed Elbushra Saeed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mohammed Mostafa-Crane",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Mokhtar Hasbalrasul Mokhtar",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Naft Services Company LTD",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Naje Salem Al-Maliki",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "National hardware center",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "One stop solution trading",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Othman Alusaimi",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Parves Ali Sial Manjhi Khan",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Petty Cash-Ammar Elsunni Ahmed Elshafie",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "REVIT TRADING COMPANY",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "RIYADH TIRES COMPANY",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "RTA",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rabiul Alam",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rasha Nagmeldin Mohamed",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Reda Ahmed Al-Maliki",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Rehad Dubai Trading Company",
+      "email": null,
+      "phone": "0",
+      "country": null
+    },
+    {
+      "name": "Road Import automotive services CO.",
+      "email": null,
+      "phone": "+966 50 925 6007",
+      "country": null
+    },
+    {
+      "name": "Ruqayyah Mohamed Al Jassim Super Market",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "SMART HD ELECTRONICS",
+      "email": null,
+      "phone": "+966 50 361 8773",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "STC Channels 73038",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Sab Express",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Shaml Al-Doha Company",
+      "email": null,
+      "phone": "4850982",
+      "country": null
+    },
+    {
+      "name": "Shate Ras Tanura Electrical & Plumbing",
+      "email": null,
+      "phone": "+966 13 667 7483",
+      "country": null
+    },
+    {
+      "name": "Staff Food",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "TALA WOLRD EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "THE WORLD OF DECORATION TRADING",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Tamimi Markets - Store 101 (Al Khobar, KSA)",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Trading in building materials",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "UM-Sahek",
+      "email": null,
+      "phone": "+966 13 501 3425",
+      "country": null
+    },
+    {
+      "name": "UNIVERSAL INSPECTION CO. LTD.",
+      "email": "info@ui.com.sa",
+      "phone": "+966 13 344 8882",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "United Ahin car wash",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Unknown",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "WADI AL NAHDA UNITED TRADING CO",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "WATER ALTAMIER MODERN EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Wadhaha Aaeda Sayar Rasheedi - مؤسسة وضحاء عايد ساير للمواد الغذائية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Welding cable 10-25mm",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Western auto company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "ZAWYA GAWHRA TRADING EST",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Zaid Muhammad - Abu Halima",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "Zain Etisalat",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "almar",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "juffali",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "khusheim corporation",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "kingoil",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "masdar al harakah",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "nahdat",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "oil pioneers trading co.",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "shams alqmah",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "test",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "waqoodi",
+      "email": null,
+      "phone": null,
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "western auto company",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "white gas cylinder",
+      "email": null,
+      "phone": "+966 56 794 1235",
+      "country": null
+    },
+    {
+      "name": "اطارات وبطاريات وميزان الاكتروني",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "الناصر",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "الوان النبراس للنسخ والتصوير",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "خالد ماجد قدوره",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "سوبر ماركت رقية محمد الجاسم",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة اطارات الرياض",
+      "email": null,
+      "phone": "1010501673",
+      "country": "Saudi Arabia"
+    },
+    {
+      "name": "شركة الربان المحدودة",
+      "email": null,
+      "phone": "+966 50 879 9800",
+      "country": null
+    },
+    {
+      "name": "شركة المنتجات النفطية للوقود",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة امانة للتامين التعاوني",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة جزيرة البناء للتجارة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة زاوية جوهرة الاسعار للتجارة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة فايف تن واكثر",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة محسن حسن الدهان وشركاه",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شركة مطاعم درة البخاري",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "شواية الخليج",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة التوريدات العالمية",
+      "email": "sales@global-supply.com",
+      "phone": "0559876543",
+      "country": null
+    },
+    {
+      "name": "مؤسسة التوريدات العالمية",
+      "email": "sales@global-supply.com",
+      "phone": "0559876543",
+      "country": null
+    },
+    {
+      "name": "مؤسسة التوريدات العالمية",
+      "email": "sales@global-supply.com",
+      "phone": "0559876543",
+      "country": null
+    },
+    {
+      "name": "مؤسسة التوريدات العالمية",
+      "email": "sales@global-supply.com",
+      "phone": "0559876543",
+      "country": null
+    },
+    {
+      "name": "مؤسسة التوريدات العالمية",
+      "email": "sales@global-supply.com",
+      "phone": "0559876543",
+      "country": null
+    },
+    {
+      "name": "مؤسسة تشييد الدمام للمقاولات العامة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة حنان عبدالله عمر الإبي التجارية",
+      "email": null,
+      "phone": "+966 55 949 3952",
+      "country": null
+    },
+    {
+      "name": "مؤسسة خدمة العملاء للتجارة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة سعود عامر الكثيري التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة عبدالله حمد الحليو التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة عبيد بن مطلق بن صغير",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة محمد محسن ال فنيس",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة مخرج التجارية",
+      "email": null,
+      "phone": "+966 54 891 2318",
+      "country": null
+    },
+    {
+      "name": "مؤسسة مرام مانع القحطاني",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مؤسسة يحيي ال زيارة التجارية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "مجمع بترو النميص للخدمات البترولية",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "محطة بنزين رينة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "محل الصادق لبيع و توزيع الغاز",
+      "email": null,
+      "phone": "+966 55 048 6291",
+      "country": null
+    },
+    {
+      "name": "مدار لمواد البناء",
+      "email": null,
+      "phone": "+966 55 127 3333",
+      "country": null
+    },
+    {
+      "name": "مركز قمة الامجاد لصيانة السيارات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "نقل داخل وخارج المملكة",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "نقليات",
+      "email": null,
+      "phone": null,
+      "country": null
+    },
+    {
+      "name": "نقليات, نقل داخل وخارج المملكة",
+      "email": null,
+      "phone": null,
+      "country": null
+    }
+  ],
+  "taxes": [
+    {
+      "name": "15%",
+      "description": null,
+      "type": "sales",
+      "label": "Sales Tax 15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "0%",
+      "description": "Not Subject to VAT",
+      "type": "sales",
+      "label": "Local Sales 0%",
+      "amount": 0,
+      "active": true
+    },
+    {
+      "name": "0% EX G",
+      "description": "Zero-rated exports - Export of Goods",
+      "type": "sales",
+      "label": "Export Sales 0%",
+      "amount": 0,
+      "active": true
+    },
+    {
+      "name": "0% EXT FS",
+      "description": "Exempt - Financial services mentioned in Article 29 of the VAT Regulations",
+      "type": "sales",
+      "label": "Exempt Sales Tax 0%",
+      "amount": 0,
+      "active": true
+    },
+    {
+      "name": "15%",
+      "description": null,
+      "type": "purchases",
+      "label": "Purchase Tax 15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "[old] 15% R C",
+      "description": null,
+      "type": "purchases",
+      "label": "Reverse charge provision Tax 15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "[old] 15% EX",
+      "description": null,
+      "type": "purchases",
+      "label": "Import tax 15% Paid to customs",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "0%",
+      "description": null,
+      "type": "purchases",
+      "label": "Purchases 0%",
+      "amount": 0,
+      "active": true
+    },
+    {
+      "name": "0% EXEMPT",
+      "description": null,
+      "type": "purchases",
+      "label": "Exempt Purchases",
+      "amount": 0,
+      "active": true
+    },
+    {
+      "name": "[old] 5% WH R",
+      "description": "<p>Withholding Tax 5% (Rental)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 5%",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "[old] 5% WH T A",
+      "description": "<p>Withholding Tax 5% (Tickets or Air Freight)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 5%",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "5% WH T S",
+      "description": "<p>Withholding Tax 5% (Tickets or Sea Freight)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 5%",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "[old] 5% WH I T",
+      "description": "<p>Withholding Tax 5% (International Telecommunication)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 5%",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "[old] 5% WH D P",
+      "description": "<p>Withholding Tax 5% (Distributed Profits)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 5%",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "5% WH C",
+      "description": "<p>Withholding Tax 5% (Consulting and Technical)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 5%",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "5% WH L",
+      "description": "<p>Withholding Tax 5% (Return from Loans)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 5%",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "[old] 5% WH I",
+      "description": "<p>Withholding Tax 5% (Insurance &amp; Reinsurance)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 5%",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "[old] 15% WH R",
+      "description": "<p>Withholding Tax 15% (Royalties)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "15% WH S M",
+      "description": "<p>Withholding Tax 15% (Paid Services from Main Branch)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "15% WH S O",
+      "description": "<p>Withholding Tax 15% (Paid Services from another branch)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "[old] 15% WH O",
+      "description": "<p>Withholding Tax 15% (Others)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "[old] 20% WH M",
+      "description": "<p>Withholding Tax 20% (Managerial)</p>",
+      "type": "purchases",
+      "label": "Withholding Tax 20%",
+      "amount": 20,
+      "active": true
+    },
+    {
+      "name": "15% R C",
+      "description": null,
+      "type": "purchases",
+      "label": "Reverse charge provision Tax 15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "15% PH PE HS",
+      "description": "<div>Private Healthcare / Private Education / First house sales to citizens</div>",
+      "type": "sales",
+      "label": "15%",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "0% ITP",
+      "description": "<div>The International transport of Passengers</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "0% S IPT",
+      "description": "<div>Services directly connected and incidental to a Supply of international passenger transport</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "0% QT",
+      "description": "<div>Supply of a qualifying means of transport</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": true
+    },
+    {
+      "name": "0% GPT",
+      "description": "<div>Any services relating to Goods or passenger transportation, as defined in article twenty five of these Regulations</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "0% MME",
+      "description": "<div>Medicines and medical equipment</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "0% QM",
+      "description": "<div>Qualifying metals</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "0% PE",
+      "description": "<div>Private education to citizen</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "0% PH",
+      "description": "<div>Private healthcare to citizen</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "0% IT G",
+      "description": "<div>The International transport of Goods</div>",
+      "type": "sales",
+      "label": "0%",
+      "amount": 0,
+      "active": true
+    },
+    {
+      "name": "0% EX S",
+      "description": "<div>Zero-rated exports - Export of Services</div>",
+      "type": "sales",
+      "label": "0% Export",
+      "amount": 0,
+      "active": true
+    },
+    {
+      "name": "0% EXT LI",
+      "description": "<div>Exempt - Life Insurance Services mentioned in Article 29 of the VAT Regulations</div>",
+      "type": "sales",
+      "label": "Exempt",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "0% EXT RE",
+      "description": "<div>Exempt - Real estate transaction mentioned in Article 30 of the VAT Regulations</div>",
+      "type": "sales",
+      "label": "Exempt",
+      "amount": 0,
+      "active": false
+    },
+    {
+      "name": "15% EX ONLY B",
+      "description": "<div>Imports - Only Base</div>",
+      "type": "purchases",
+      "label": "15% Import - Base",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "15% EX ONLY",
+      "description": "<div>Imports - Only VAT</div>",
+      "type": "purchases",
+      "label": "15% Import",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "5% WH R G",
+      "description": "<div>Gross Withholding on Payment - Rent</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "5% WH AT AF MF G",
+      "description": "<div>Gross Withholding on Payment - Air tickets, Air freight and Maritime freight for International travel departing from Saudi Arabia</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "5% WH TC ICS G",
+      "description": "<div>Gross Withholding on Payment - Technical and consulting services and international telecommunication services (for related and unrelated parties)</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "5% WH D G",
+      "description": "<div>Gross Withholding on Payment - Dividends</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "5% WH IL IRP G",
+      "description": "<div>Gross Withholding on Payment - Interest on loan, insurance and reinsurance premium</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": true
+    },
+    {
+      "name": "15% WH R G",
+      "description": "<div>Gross Withholding on Payment - Royalty</div>",
+      "type": "purchases",
+      "label": "15% Withholding",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "15% WH O G",
+      "description": "<div>Gross Withholding on Payment - Any other payments</div>",
+      "type": "purchases",
+      "label": "15% Withholding",
+      "amount": 15,
+      "active": true
+    },
+    {
+      "name": "20% WH MF G",
+      "description": "<div>Gross Withholding on Payment - Management Fees</div>",
+      "type": "purchases",
+      "label": "20% Withholding",
+      "amount": 20,
+      "active": true
+    },
+    {
+      "name": "5% WH R D",
+      "description": "<div>Deducted Withholding on Payment - Rent</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": false
+    },
+    {
+      "name": "5% WH AT AF MF D",
+      "description": "<div>Deducted Withholding on Payment - Air tickets, Air freight and Maritime freight for International travel departing from Saudi Arabia</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": false
+    },
+    {
+      "name": "5% WH TC ICS D",
+      "description": "<div>Deducted Withholding on Payment - Technical and consulting services and international telecommunication services (for related and unrelated parties)</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": false
+    },
+    {
+      "name": "5% WH D D",
+      "description": "<div>Deducted Withholding on Payment - Dividends</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": false
+    },
+    {
+      "name": "5% WH IL IRP D",
+      "description": "<div>Deducted Withholding on Payment - Interest on loan, insurance and reinsurance premium</div>",
+      "type": "purchases",
+      "label": "5% Withholding",
+      "amount": 5,
+      "active": false
+    },
+    {
+      "name": "15% WH R D",
+      "description": "<div>Deducted Withholding on Payment - Royalty</div>",
+      "type": "purchases",
+      "label": "15% Withholding",
+      "amount": 15,
+      "active": false
+    },
+    {
+      "name": "15% WH O D",
+      "description": "<div>Deducted Withholding on Payment - Any other payments</div>",
+      "type": "purchases",
+      "label": "15% Withholding",
+      "amount": 15,
+      "active": false
+    },
+    {
+      "name": "20% WH MF D",
+      "description": "<div>Deducted Withholding on Payment - Management Fees</div>",
+      "type": "purchases",
+      "label": "20% Withholding",
+      "amount": 20,
+      "active": false
+    }
+  ],
+  "analyticAccounts": [
+    {
+      "name": "Administrative and Operating Buildings",
+      "reference": null,
+      "customer": "Al-Kharj Air Base",
+      "plan": "Project",
+      "balance": -74876.82
+    },
+    {
+      "name": "Al Khobar building 🏢",
+      "reference": null,
+      "customer": null,
+      "plan": "Project",
+      "balance": -396838.94
+    },
+    {
+      "name": "Al Sahab building 🏢",
+      "reference": null,
+      "customer": null,
+      "plan": "Project",
+      "balance": -38549.03
+    },
+    {
+      "name": "Catering Project",
+      "reference": null,
+      "customer": null,
+      "plan": "Project",
+      "balance": -43367.83
+    },
+    {
+      "name": "Containers Project-Aljuamah",
+      "reference": null,
+      "customer": "Saudi Diesel Equipment Co. ltd,",
+      "plan": "Project",
+      "balance": -3148111.89
+    },
+    {
+      "name": "Kitchen Peax",
+      "reference": null,
+      "customer": null,
+      "plan": "Project",
+      "balance": -82596.09
+    },
+    {
+      "name": "Peax Office Building",
+      "reference": null,
+      "customer": "Peax",
+      "plan": "Project",
+      "balance": 206476.3
+    },
+    {
+      "name": "Head Office",
+      "reference": null,
+      "customer": null,
+      "plan": "Office",
+      "balance": -9323328.53
+    },
+    {
+      "name": "1648 DRA",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -2369
+    },
+    {
+      "name": "1753EUR",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -4779.75
+    },
+    {
+      "name": "2139 AXB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -5029.54
+    },
+    {
+      "name": "2241TRB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -6509.83
+    },
+    {
+      "name": "2830AXA MITSUBISHI",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -10588.41
+    },
+    {
+      "name": "3405BZR",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -1403.98
+    },
+    {
+      "name": "3878HZD",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -1629.9
+    },
+    {
+      "name": "4202AKD",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -160.76
+    },
+    {
+      "name": "4210ASS Mitsubishi",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -1368.75
+    },
+    {
+      "name": "4211SXA",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -9257.83
+    },
+    {
+      "name": "4614",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -261.89
+    },
+    {
+      "name": "4724TND KIA",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -5948.1
+    },
+    {
+      "name": "5772KED FORD",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -1509.53
+    },
+    {
+      "name": "5837UXB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -324.88
+    },
+    {
+      "name": "5868GTB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -869.74
+    },
+    {
+      "name": "7295.ب.ص.ن",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -884.94
+    },
+    {
+      "name": "7584JTB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": 12078.4
+    },
+    {
+      "name": "7590JTB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -207.44
+    },
+    {
+      "name": "7598JTB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -259.94
+    },
+    {
+      "name": "7731.أ.س.ح",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -3559.92
+    },
+    {
+      "name": "7758 ZEB ISUZU",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -873.91
+    },
+    {
+      "name": "8068XTB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -1268.34
+    },
+    {
+      "name": "9703ب.ص.ل",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -917.98
+    },
+    {
+      "name": "9704ب.ص.ل",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -165.04
+    },
+    {
+      "name": "9706.ب.ص.ل",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -2242.48
+    },
+    {
+      "name": "AXA7773 Isuzu",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -1288
+    },
+    {
+      "name": "AXA8136 Isuzu",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -2488
+    },
+    {
+      "name": "AXA8137 Isuzu",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -258
+    },
+    {
+      "name": "BASEM CAR",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -173.04
+    },
+    {
+      "name": "Basim Car New Ford",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -1646.54
+    },
+    {
+      "name": "Bentley",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -2200.5
+    },
+    {
+      "name": "Hi Lux 4x4 9705",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -3599.77
+    },
+    {
+      "name": "Hyundai 8904",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -27441.89
+    },
+    {
+      "name": "Kia 7501",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -4246.15
+    },
+    {
+      "name": "Lamborghini",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -2127.66
+    },
+    {
+      "name": "Mercedes 8709",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -13683.51
+    },
+    {
+      "name": "Mercedes 8710",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -15256.76
+    },
+    {
+      "name": "Mercedes 8711",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -13837.85
+    },
+    {
+      "name": "Mercedes 8712",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -10613.98
+    },
+    {
+      "name": "Mercedes 8713",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -11675.05
+    },
+    {
+      "name": "Mubarak Car",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -3739.96
+    },
+    {
+      "name": "RRB 5360 KIA",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -7614.55
+    },
+    {
+      "name": "hongqi 3710 DEB",
+      "reference": null,
+      "customer": null,
+      "plan": "Cars & Vehicles",
+      "balance": -9619.85
+    },
+    {
+      "name": "Asphalt Paver Machine",
+      "reference": null,
+      "customer": null,
+      "plan": "Cost Center",
+      "balance": -687
+    },
+    {
+      "name": "FRAMECAD F325iT",
+      "reference": null,
+      "customer": null,
+      "plan": "Cost Center",
+      "balance": -49618.03
+    },
+    {
+      "name": "Fork Lift",
+      "reference": null,
+      "customer": null,
+      "plan": "Cost Center",
+      "balance": -3703.48
+    },
+    {
+      "name": "Generator",
+      "reference": null,
+      "customer": null,
+      "plan": "Cost Center",
+      "balance": -51312.39
+    },
+    {
+      "name": "Paint Sprayer",
+      "reference": null,
+      "customer": null,
+      "plan": "Cost Center",
+      "balance": -694
+    },
+    {
+      "name": "Sand Screening Machine",
+      "reference": null,
+      "customer": null,
+      "plan": "Cost Center",
+      "balance": -5725.02
+    },
+    {
+      "name": "Welding Machine",
+      "reference": null,
+      "customer": null,
+      "plan": "Cost Center",
+      "balance": -2484.35
+    },
+    {
+      "name": "Workshop",
+      "reference": null,
+      "customer": null,
+      "plan": "Cost Center",
+      "balance": -4021.55
+    },
+    {
+      "name": "CEO Expenses",
+      "reference": null,
+      "customer": null,
+      "plan": "Expenses Classes",
+      "balance": -16880.35
+    },
+    {
+      "name": "Marketing",
+      "reference": null,
+      "customer": null,
+      "plan": "Expenses Classes",
+      "balance": -14421.65
+    }
+  ],
+  "meta": {
+    "accountCount": 239,
+    "partnerCount": 954,
+    "taxCount": 54,
+    "analyticCount": 61
+  }
+}
