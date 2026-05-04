@@ -1,0 +1,15 @@
+bottle
+can
+box
+carton
+bag
+jar
+container
+package
+pouch
+tube
+crate
+pallet
+drum
+barrel
+sack
