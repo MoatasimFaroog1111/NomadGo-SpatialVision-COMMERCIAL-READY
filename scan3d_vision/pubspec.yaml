@@ -1,0 +1,35 @@
+name: scan3d_vision
+description: Real-time 3D object scanning with computer vision, AR, and YOLO detection
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.0+2
+  ar_flutter_plugin_2: ^0.0.3
+  tflite_flutter: ^0.12.1
+  image: ^4.3.0
+  vector_math: ^2.1.4
+  path_provider: ^2.1.4
+  permission_handler: ^11.3.1
+  flutter_3d_controller: ^2.1.0
+  share_plus: ^10.1.4
+  provider: ^6.1.2
+  uuid: ^4.5.1
+  collection: ^1.18.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/
+    - assets/labels/
